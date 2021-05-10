@@ -4,6 +4,6 @@ You can also [download this document as a PDF](https://github.com/MishManners/Gi
 
 ### Contribution Guidelines
 
-If you have any new ideas you'd like to add to the Tips and Tricks document, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=add-tip%2C+documentation&template=AddNewTipsandTricks.md&title=%3Asparkles%3A+Request+to+add+tip+or+trick+to+documentation+%3Acrystal_ball%3A+).
+If you have any new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
 
-Ensure that your addition/change includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included.
+When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
