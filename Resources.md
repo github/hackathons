@@ -27,6 +27,7 @@ Envato  is the digital marketplace for EVERYTHING. You can find lots of great re
 ## [Gather Town](https://gather.town/)
 
 Are you running a virtual hackathon? Want a better way to engage your audience? Gather town is fun way to have virtual conversations, meetings, chats, and even large presentations. It's completely customisable, and super fun... like playing a video game and chatting to your friends. It's the perfect way to break people out of their comfort zone and they won't even feel like they are on a video call.
+![ezgif-3-1378a7de7701](https://user-images.githubusercontent.com/36594527/117616530-98bed080-b1ae-11eb-8e01-bb3a96906ad7.gif)
 
 ## [Gavel](https://github.com/anishathalye/gavel)
 
