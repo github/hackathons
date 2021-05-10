@@ -100,3 +100,5 @@ Format for adding your resource:
 _Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers. Ensure the link above includes https instead of http._
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
+
+You can also [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/resources) to talk about Resources before adding them to the documentation.
