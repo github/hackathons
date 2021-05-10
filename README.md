@@ -10,7 +10,7 @@ There are two main sections to this repository:
 
 ## Tips and Tricks
 
-The [Tips and Tricks file]() contains lots of information on how to run your hackathon. Whether you're thinking about running and in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
+The [Tips and Tricks file](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md) contains lots of information on how to run your hackathon. Whether you're thinking about running and in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
 
 You can [download](https://github.com/MishManners/GitHub-Hackathons/files/6448857/GitHub.Hackathon.Tips.and.Tricks.2020.pdf) this document as a PDF. Feel free to use it, share it around, and consult it.
 
@@ -18,11 +18,11 @@ If you have any new ideas you'd like to add to the Tips and Tricks document, ple
 
 ## Resources
 
-Organisers are often looking for good resources for running their hackathons. The [Resources file]() document contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
+Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
 
-If you would like to add a resource to this document, please open a pull request. Ensure that your resource recommendation includes:
+If you would like to add a resource to this document, please [open a pull request](). Ensure that your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
 - Short description about the resource
 
-See the [Resources file]() to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected.
+See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected.
