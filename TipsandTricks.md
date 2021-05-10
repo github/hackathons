@@ -4,9 +4,4 @@ You can also [download this document as a PDF](https://github.com/MishManners/Gi
 
 ### Contribution Guidelines
 
-If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure that your resource recommendation includes:
-- Name of the resource
-- Link to the resource (ie. website)
-- Short description about the resource
-
-See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected.
+If you have any new ideas you'd like to add to the Tips and Tricks document, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=add-tip%2C+documentation&template=AddNewTipsandTricks.md&title=%3Asparkles%3A+Request+to+add+tip+or+trick+to+documentation+%3Acrystal_ball%3A+).
