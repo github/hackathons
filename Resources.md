@@ -8,7 +8,7 @@ Don't forget to read our own [Tips and Tricks document](https://github.com/MishM
          
 # Resources
 
-You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](). Make sure you follow the contribution guidelines detailed below.
+You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
 
 ## [Dev.to](https://dev.to/)
 
@@ -116,3 +116,10 @@ If you would like to add a resource to this document, please [open a pull reques
 - Short description about the resource
 
 See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected. Ensure your resource is placed in the correct alphabetical order.
+
+Format for adding your resource:
+
+[Name of the Resource with link to website]()
+_Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers._
+
+Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
