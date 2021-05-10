@@ -4,9 +4,10 @@
 
 This repository contains Tips, Tricks, and Resources to help you plan, organise, and execute your hackathons. You can use these to help guide you when planning your next hackathon.
 
-There are two main sections to this repository:
+There are three main sections to this repository:
 - [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
 - [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
+- [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
 
 Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+)
 
@@ -31,9 +32,9 @@ You can [download](https://github.com/MishManners/GitHub-Hackathons/files/644885
 
 ### Contribution Guidelines
 
-If you have any new ideas you'd like to add to the Tips and Tricks document, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=add-tip%2C+documentation&template=AddNewTipsandTricks.md&title=%3Asparkles%3A+Request+to+add+tip+or+trick+to+documentation+%3Acrystal_ball%3A+).
+If you have any new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
 
-Ensure that your addition/change includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included.
+When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
 
 ## Resources
 
@@ -54,3 +55,5 @@ Format for adding your resource:
 _Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers. Ensure the link above includes https instead of http._
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
+
+You can also [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/resources) to talk about Resources before adding them to the documentation.
