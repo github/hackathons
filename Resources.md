@@ -1,4 +1,4 @@
-# ![Resources Logo](https://user-images.githubusercontent.com/36594527/117604287-61452980-b198-11eb-8cd4-cd696454ae24.png)
+# ![Resources Logo](https://user-images.githubusercontent.com/36594527/117604495-e0d2f880-b198-11eb-81a8-30ae966c0582.png)
 
 ### Contribution Guidelines
 
