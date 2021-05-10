@@ -43,4 +43,4 @@ If you would like to add a resource to this document, please [open a pull reques
 - Link to the resource (ie. website)
 - Short description about the resource
 
-See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected.
+See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected. Ensure your resource is placed in the correct alphabetical order.
