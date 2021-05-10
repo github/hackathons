@@ -1,5 +1,5 @@
 # GitHub Hackathons
-Tips, tricks, and Resources for your hackathons
+Tips, tricks, and Resources to help you plan, organise, and execute your hackathons.
 
 Two folders
 Tips and Tricks
