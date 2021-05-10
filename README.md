@@ -13,7 +13,6 @@ Guidelines are detailed below on how to contribute to each of these documents. I
 ### Participating in a hackathon
 
 Please note this repository is **NOT** geared towards participants. This repository contains information useful to hackathon organisers and managers. It does not contain tips/tricks or resources for participating in a hackathon. If you are looking for a hackathon to participate in, you can check out the following sites:
-- GitHub Events: _coming soon_
 - [Major League Hacking](https://mlh.io/)
 - [DevPost](https://devpost.com/)
 - [Hackathons International](https://www.hackathonsinternational.com/)
