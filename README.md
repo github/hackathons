@@ -5,8 +5,8 @@
 This repository contains Tips, Tricks, and Resources to help you plan, organise, and execute your hackathons. You can use these to help guide you when planning your next hackathon.
 
 There are two main sections to this repository:
-- Tips and Tricks
-- Resources
+- [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
+- [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
 
 ### Participating in a hackathon
 
@@ -28,13 +28,17 @@ The [Tips and Tricks file](https://github.com/MishManners/GitHub-Hackathons/blob
 
 You can [download](https://github.com/MishManners/GitHub-Hackathons/files/6448857/GitHub.Hackathon.Tips.and.Tricks.2020.pdf) this document as a PDF. Feel free to use it, share it around, and consult it.
 
+### Contribution Guidelines
+
 If you have any new ideas you'd like to add to the Tips and Tricks document, please [open an issue]().
 
 ## Resources
 
 Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
 
-If you would like to add a resource to this document, please [open a pull request](). Ensure that your resource recommendation includes:
+### Contribution Guidelines
+
+If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure that your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
 - Short description about the resource
