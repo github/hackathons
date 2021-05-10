@@ -1,6 +1,6 @@
 ---
-name: Issue, Feature, or Bug
-about: 'Issue, feature, or bug'
+name: ⚡ Issue, Feature, or Bug 🐛
+about: 'Use this to report an issue, feature, or bug'
 title: ":zap: Request to add tip or trick to documentation :bug: "
 labels: 
 assignees: MishManners
