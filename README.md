@@ -52,6 +52,6 @@ See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/bl
 Format for adding your resource:
 
 [Name of the Resource with link to website]()
-_Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers._
+_Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers. Ensure the link above includes https instead of http._
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
