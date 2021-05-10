@@ -53,60 +53,24 @@ Hackathons International is a global organisation, started in Melbourne. They ha
 
 Find out where all the awesome hackathons are running! There’s a whole bunch of resources, tips, freebies, and more on this website . It’s a must to check out if you’re running a hackathon.
         
-##[Menitmeter]()
-        Need a resource for doing great interactive presentations?
-        As an organiser, this is an awesome platform. Use
-         https://www.mentimeter.com/"  >Mentimeter 
-        to run live polls, quizzes, word clouds, Q&As and more.
-        Check out all the awesome things you can do to make
-        your sessions more interactive.
+##[Menitmeter](https://www.mentimeter.com/)
+Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
         
+##[Slack](https://slack.com/)
 
-        
-         Slack >
-        The communication tool of this century!
-        If you don’t have it, you need it. All your comms
-        are easily accessible in one place. Use it to keep
-        track of your organising team and it’s also a great
-        platform for participants to connect and share knowledge.
-         https://slack.com/"  >Slack  is perfect for both online and offline hackathons.
-        
+The communication tool of this century! If you don’t have it, you need it. All your comms are easily accessible in one place. Use it to keep track of your organising team and it’s also a great platform for participants to connect and share knowledge. Slack  is perfect for both online and offline hackathons.
 
-        
-         Stack Overflow >
-        If you've never heard about  https://stackoverflow.com/"
-         >Stack Overflow  this is the perfect time to get
-        familiar. This is the place where developers come to learn together. The 
-         https://stackoverflow.com/questions"
-         >Q&A Section  is probably what you'll want to look at the
-        most. As an organiser, this is the perfect resource to point your participants
-        to when they need answers on pretty much any developer question on the planet.
-        
+##[Stack Overflow](https://stackoverflow.com/)
 
-        
-         Vercel >
-        
-         https://vercel.com/virtual-event-starter-kit"  >Vercel 
-        is a virtual event starter kit. It allows you to fully customise your event to 
-        your needs. It runs in any browser without additional downloads and is perfect 
-        if you are thinking of hosting a virtual hackathon with presentations and more of an 'event' flair.
-        
+If you've never heard about Stack Overflow  this is the perfect time to get familiar. This is the place where developers come to learn together. The [Q&A Section](https://stackoverflow.com/questions) is probably what you'll want to look at the most. As an organiser, this is the perfect resource to point your participants to when they need answers on pretty much any developer question on the planet.
 
+##[Vercel](https://vercel.com/virtual-event-starter-kit)
         
-         Zoom >
-        No doubt you’ve now heard about Zoom!
-        It’s essential to use some sort of video conferencing tool
-        when you’re running an offline hackathon with presentations
-        and workshops.  https://zoom.us/"
-         >Zoom  can be used for organisers to host and
-        kick off a hackathon, as well as having participants dial
-        in and present their ideas at the end. Depending on the
-        format for your hackathon you might decide to limit
-        interaction and leave people to their own devices.
-        If you are interacting with people however, you can’t go
-        past Zoom… just remember to set a password to deter “zoom bombers”!
+Vercel is a virtual event starter kit. It allows you to fully customise your event to your needs. It runs in any browser without additional downloads and is perfect if you are thinking of hosting a virtual hackathon with presentations and more of an 'event' flair.
+        
+##[Zoom](https://zoom.us/)
 
-
+No doubt you’ve now heard about Zoom! It’s essential to use some sort of video conferencing tool when you’re running an offline hackathon with presentations and workshops. Zoom  can be used for organisers to host and kick off a hackathon, as well as having participants dial in and present their ideas at the end. Depending on the format for your hackathon you might decide to limit interaction and leave people to their own devices. If you are interacting with people however, you can’t go past Zoom… just remember to set a password to deter “zoom bombers”!
 
 ### Contribution Guidelines
 
@@ -115,11 +79,11 @@ If you would like to add a resource to this document, please [open a pull reques
 - Link to the resource (ie. website)
 - Short description about the resource
 
-See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request will be rejected. Ensure your resource is placed in the correct alphabetical order.
+See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request could be rejected. Ensure your resource is placed in the correct alphabetical order.
 
 Format for adding your resource:
 
 [Name of the Resource with link to website]()
-_Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers._
+_Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers. Ensure the link above includes https instead of http._
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
