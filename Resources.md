@@ -22,7 +22,11 @@ DevPost is known as the home for hackathons. Hackathons are featured on there, a
 DevPost Expo is an open sourced tool for helping filter and distribute table numbers. If you’re running a science-fair, expo style presentation format this is the perfect tool. 
         
 ## [Envato](https://envato.com/)
-Envato  is the digital marketplace for EVERYTHING. You can find lots of great resources for using in videos, making presentations, designing graphics, website templates, and heaps more. There’s lots of free content and some cheap assets as well. 
+Envato  is the digital marketplace for EVERYTHING. You can find lots of great resources for using in videos, making presentations, designing graphics, website templates, and heaps more. There’s lots of free content and some cheap assets as well.
+
+## [Gather Town](https://gather.town/)
+
+Are you running a virtual hackathon? Want a better way to engage your audience? Gather town is fun way to have virtual conversations, meetings, chats, and even large presentations. It's completely customisable, and super fun... like playing a video game and chatting to your friends. It's the perfect way to break people out of their comfort zone and they won't even feel like they are on a video call.
 
 ## [Gavel](https://github.com/anishathalye/gavel)
 
@@ -57,6 +61,10 @@ Find out where all the awesome hackathons are running! There’s a whole bunch o
         
 ## [Menitmeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
+
+## [Remo](https://remo.co)
+
+Another one for the virtual event orgainsers. Remo is a fully online and customisable virtual event experience. This really makes participants feel like they are at a physical hackathon. It has all the features of a real building; elevators, different floors, tables to 'sit' at, and places to watch larger presentations. It's perfect if you want to run with the 'weekend long' format in a virtual setting.
         
 ## [Slack](https://slack.com/)
 
