@@ -8,6 +8,8 @@ There are two main sections to this repository:
 - [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
 - [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
 
+Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+)
+
 ### Participating in a hackathon
 
 Please note this repository is **NOT** geared towards participants. This repository contains information useful to hackathon organisers and managers. It does not contain tips/tricks or resources for participating in a hackathon. If you are looking for a hackathon to participate in, you can check out the following sites:
