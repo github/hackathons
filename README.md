@@ -8,6 +8,20 @@ There are two main sections to this repository:
 - Tips and Tricks
 - Resources
 
+### Participating in a hackathon
+
+Please note this repository is **NOT** geared towards participants. This repository contains information useful to hackathon organisers and managers. It does not contain tips/tricks or resources for participating in a hackathon. If you are looking for a hackathon to participate in, you can check out the following sites:
+- GitHub Events: _coming soon_
+- [Major League Hacking](https://mlh.io/)
+- [DevPost](https://devpost.com/)
+- [Hackathons International](https://www.hackathonsinternational.com/)
+- [Hackaday](https://hackaday.com/)
+- [DevFolio](https://devfolio.co/hackathons)
+- [Hack Club](https://hackathons.hackclub.com/)
+- [HackaList](http://www.hackalist.org/)
+
+**Organisers,** the above sites are great places where you can promote your hackathon!
+
 ## Tips and Tricks
 
 The [Tips and Tricks file](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md) contains lots of information on how to run your hackathon. Whether you're thinking about running and in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
