@@ -40,6 +40,8 @@ Obviously we can’t go past our own amazing developer platform! GitHub  is a gr
 ## [GitHub Campus Experts](https://education.github.com/students/experts)
 
 If you’re a student running a hackathon, then why not see if you can get some money to help you out. Through our partnership with Major League Hacking, we offer students $1000 USD to help run a hackathon. Find out more on the [GitHub Campus Experts website](https://education.github.com/students/experts) and click “apply for hackathon grant”.
+![opengraph-bbc921c34890fc1a76d65167838766b9adf12237a9f54354bcea2d4bbbf46e9e](https://user-images.githubusercontent.com/36594527/117616718-d4f23100-b1ae-11eb-96ee-a4d655f083db.png)
+
         
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
