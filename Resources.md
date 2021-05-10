@@ -1,4 +1,4 @@
-# ![Resources Logo](https://user-images.githubusercontent.com/36594527/117604495-e0d2f880-b198-11eb-81a8-30ae966c0582.png)
+# ![Resources Logo2](https://user-images.githubusercontent.com/36594527/117616341-55fcf880-b1ae-11eb-8917-ef4f75ac48ba.png)
 
 Need some resources for your hackathon? Check out all our resources below. This is by no means an exhaustive list. We hope you find it useful.
 
