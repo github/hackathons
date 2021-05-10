@@ -24,7 +24,7 @@ Please note this repository is **NOT** geared towards participants. This reposit
 
 **Organisers,** the above sites are great places where you can promote your hackathon!
 
-## [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
+## 🔮 [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
 
 The [Tips and Tricks file](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md) contains lots of information on how to run your hackathon. Whether you're thinking about running and in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
 
@@ -36,7 +36,7 @@ If you have any new ideas you'd like to add to the Tips and Tricks document, ple
 
 When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
 
-## [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
+## 📚 [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
 
 Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
 
@@ -61,7 +61,7 @@ Remember, this resource is for organisers, not participants. If your resource is
 
 You can also [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/resources) to talk about Resources before adding them to the documentation.
 
-## [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
+## 📣 [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
 
 This is a great place to connect to other hackathon organisers. You can use the [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/tips-and-tricks) or [Resources](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/resources) Discussions before adding content to this repository. You can also share [ideas](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/ideas), talk about [random things](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/general) or [ask questions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/q-a).
 
