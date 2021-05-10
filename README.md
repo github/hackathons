@@ -30,7 +30,7 @@ You can [download](https://github.com/MishManners/GitHub-Hackathons/files/644885
 
 ### Contribution Guidelines
 
-If you have any new ideas you'd like to add to the Tips and Tricks document, please [open an issue]().
+If you have any new ideas you'd like to add to the Tips and Tricks document, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=add-tip%2C+documentation&template=AddNewTipsandTricks.md&title=%3Asparkles%3A+Request+to+add+tip+or+trick+to+documentation+%3Acrystal_ball%3A+).
 
 ## Resources
 
