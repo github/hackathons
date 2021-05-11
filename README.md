@@ -5,9 +5,12 @@
 This repository contains Tips, Tricks, and Resources to help you plan, organise, and execute your hackathons. You can use these to help guide you when planning your next hackathon.
 
 There are three main sections to this repository:
-- [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
-- [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
-- [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
+
+🔮 [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
+
+📚 [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
+
+📣 [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
 
 Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+)
 
