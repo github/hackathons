@@ -101,7 +101,7 @@ Vercel is a virtual event starter kit. It allows you to fully customise your eve
 
 No doubt you’ve now heard about Zoom! It’s essential to use some sort of video conferencing tool when you’re running an offline hackathon with presentations and workshops. Zoom  can be used for organisers to host and kick off a hackathon, as well as having participants dial in and present their ideas at the end. Depending on the format for your hackathon you might decide to limit interaction and leave people to their own devices. If you are interacting with people however, you can’t go past Zoom… just remember to set a password to deter “zoom bombers”!
 
-### Contribution Guidelines
+# Contribution Guidelines
 
 If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure your resource recommendation includes:
 - Name of the resource
