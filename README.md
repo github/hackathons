@@ -12,7 +12,7 @@ There are three main sections to this repository:
 
 📣 [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
 
-Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+)
+Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+).
 
 ### Participating in a hackathon
 
