@@ -45,7 +45,7 @@ Organisers are often looking for good resources for running their hackathons. Th
 
 ### Contribution Guidelines
 
-If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure that your resource recommendation includes:
+If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
 - Short description about the resource
@@ -58,7 +58,7 @@ Format for adding your resource:
 
 `Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers. Ensure the link above includes https instead of http.`
 
-`# you can add an appropriate gif, short video, or image if it suits. This is however, not necessary.`
+`# you can add an appropriate gif, short video, or image if it suits. However, this is not necessary.`
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
 
