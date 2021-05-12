@@ -13,6 +13,8 @@ You'll find an alphabetical list of resources below. If you'd like to add your o
 ## [Dev.to](https://dev.to/)
 
 Dev.to is a community of software developers. They help one another out, posting tutorials, information, and collaborating. Dev.to host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon.
+
+![6hqmcjaxbgbon8ydw93z](https://user-images.githubusercontent.com/36594527/117923859-2679f780-b338-11eb-83a9-aebd1f4f9bf1.png)
         
 ## [DevPost](https://devpost.com/)
 DevPost is known as the home for hackathons. Hackathons are featured on there, and there’s a whole host of tips and tricks on running hackathons too. Check out their page for best practices, and even how to promote a hackathon. This is also a great place to consider promoting your hackathon.
@@ -66,6 +68,8 @@ Hackathons International is a global organisation, started in Melbourne. They ha
 ## [Major League Hacking](https://mlh.io/)
 
 Find out where all the awesome hackathons are running! There’s a whole bunch of resources, tips, freebies, and more on their website. It’s a must to check out if you’re running a hackathon.
+
+![1_Q6GvThiNFFZByD00DJANVg](https://user-images.githubusercontent.com/36594527/117923877-2d086f00-b338-11eb-96c6-c392797dab9c.jpg)
         
 ## [Menitmeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
@@ -73,14 +77,20 @@ Need a resource for doing great interactive presentations? As an organiser, this
 ## [Remo](https://remo.co)
 
 Another one for the virtual event orgainsers. Remo is a fully online and customisable virtual event experience. This really makes participants feel like they are at a physical hackathon. It has all the features of a real building; elevators, different floors, tables to 'sit' at, and places to watch larger presentations. It's perfect if you want to run with the 'weekend long' format in a virtual setting.
+
+![Remo](https://user-images.githubusercontent.com/36594527/117923887-31348c80-b338-11eb-800f-fa1e75b71e24.gif)
         
 ## [Slack](https://slack.com/)
 
 The communication tool of this century! If you don’t have it, you need it. All your comms are easily accessible in one place. Use it to keep track of your organising team and it’s also a great platform for participants to connect and share knowledge. Slack  is perfect for both online and offline hackathons.
 
+![Slack](https://user-images.githubusercontent.com/36594527/117923901-3560aa00-b338-11eb-8f79-3e649a084671.gif)
+
 ## [Stack Overflow](https://stackoverflow.com/)
 
 If you've never heard about Stack Overflow  this is the perfect time to get familiar. This is the place where developers come to learn together. The [Q&A Section](https://stackoverflow.com/questions) is probably what you'll want to look at the most. As an organiser, this is the perfect resource to point your participants to when they need answers on pretty much any developer question on the planet.
+
+
 
 ## [Vercel](https://vercel.com/virtual-event-starter-kit)
         
