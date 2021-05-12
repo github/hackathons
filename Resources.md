@@ -90,7 +90,7 @@ The communication tool of this century! If you don’t have it, you need it. All
 
 If you've never heard about Stack Overflow  this is the perfect time to get familiar. This is the place where developers come to learn together. The [Q&A Section](https://stackoverflow.com/questions) is probably what you'll want to look at the most. As an organiser, this is the perfect resource to point your participants to when they need answers on pretty much any developer question on the planet.
 
-
+![Stackoverflow3](https://user-images.githubusercontent.com/36594527/117927116-1c0e2c80-b33d-11eb-95fa-2ae6505f2322.gif)
 
 ## [Vercel](https://vercel.com/virtual-event-starter-kit)
         
