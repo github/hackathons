@@ -27,6 +27,7 @@ Envato  is the digital marketplace for EVERYTHING. You can find lots of great re
 ## [Gather Town](https://gather.town/)
 
 Are you running a virtual hackathon? Want a better way to engage your audience? Gather town is fun way to have virtual conversations, meetings, chats, and even large presentations. It's completely customisable, and super fun... like playing a video game and chatting to your friends. It's the perfect way to break people out of their comfort zone and they won't even feel like they are on a video call.
+
 ![ezgif-3-1378a7de7701](https://user-images.githubusercontent.com/36594527/117616530-98bed080-b1ae-11eb-8e01-bb3a96906ad7.gif)
 
 ## [Gavel](https://github.com/anishathalye/gavel)
@@ -36,10 +37,14 @@ Gavel  is an open sourced judging tool. It was originally built for a hackathon 
 ## [GitHub](https://github.com/)
 
 Obviously we can’t go past our own amazing developer platform! GitHub  is a great way to collaborate on a project, track your progress, manage a project, and more. Check out how to get GitHub for free on our  [GitHub Teams page](https://github.com/pricing). You can also check out our [GitHub Docs Pages](https://docs.github.com/) for heaps of information on using GitHub and how-to guides.
+
+![banner-code-graph](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
+
         
 ## [GitHub Campus Experts](https://education.github.com/students/experts)
 
 If you’re a student running a hackathon, then why not see if you can get some money to help you out. Through our partnership with Major League Hacking, we offer students $1000 USD to help run a hackathon. Find out more on the [GitHub Campus Experts website](https://education.github.com/students/experts) and click “apply for hackathon grant”.
+
 ![opengraph-bbc921c34890fc1a76d65167838766b9adf12237a9f54354bcea2d4bbbf46e9e](https://user-images.githubusercontent.com/36594527/117616718-d4f23100-b1ae-11eb-96ee-a4d655f083db.png)
 
         
@@ -60,7 +65,7 @@ Hackathons International is a global organisation, started in Melbourne. They ha
         
 ## [Major League Hacking](https://mlh.io/)
 
-Find out where all the awesome hackathons are running! There’s a whole bunch of resources, tips, freebies, and more on this website . It’s a must to check out if you’re running a hackathon.
+Find out where all the awesome hackathons are running! There’s a whole bunch of resources, tips, freebies, and more on their website. It’s a must to check out if you’re running a hackathon.
         
 ## [Menitmeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
