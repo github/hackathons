@@ -103,16 +103,18 @@ No doubt you’ve now heard about Zoom! It’s essential to use some sort of vid
 
 ### Contribution Guidelines
 
-If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure that your resource recommendation includes:
+If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
 - Short description about the resource
+- You can include a relevant image or gif if you like but this is not necessary
 
 See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request could be rejected. Ensure your resource is placed in the correct alphabetical order.
 
 Format for adding your resource:
 
 [Name of the Resource with link to website]()
+
 _Short description, between two and four sentences long. Talk about what the resource is and how it can help organisers. Ensure the link above includes https instead of http._
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
