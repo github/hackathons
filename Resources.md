@@ -53,7 +53,7 @@ If you’re a student running a hackathon, then why not see if you can get some 
 Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Google Forms. It’s free and super easy to use.
         
 ## [Hackathon Organiser’s Guide](https://guide.mlh.io/)
-This guide was put together by our friends over at Major League Hacking. They have a lot of useful information on how to run community focused hackathons. There are some resources around budgets, volunteering guides, proposals, sponsorship decks, and more. A lot of the information is not only targeted towards community hackathons, but also very much towards student hackathons.
+This guide was put together by our friends over at [Major League Hacking](https://mlh.io). They have a lot of useful information on how to run community focused hackathons. There are some resources around budgets, volunteering guides, proposals, sponsorship decks, and more. A lot of the information is not only targeted towards community hackathons, but also very much towards student hackathons. You can even view, edit, and contribute to [this guide on GitHub](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/README.md)!
         
 ## [Hackathon Queen](https://hackathonqueen.com/)
 
