@@ -214,7 +214,7 @@ What you choose will depend on the reason for running the hackathon, what resour
 
 Showcase the ideas in a public forum. Create a video, write a blog post, or have them on your website. Participants will be able to see the projects they created and tell their friends. Others in the community can see how successful your hackathon was. 
 
-### Share it**
+### Share it
 
 Your hackathon was successful and new ideas were created, and problems solved. Why not celebrate that? Post about it on social media, share some highlights and more.
 
