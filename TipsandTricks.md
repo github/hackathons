@@ -245,6 +245,8 @@ Liked the hackathon? Then run another one! Some hackathons run annual, half-year
 
 We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/MishManners/GitHub-Hackathons/files/6448853/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
 
+Don't forget to also check out the [Resources documentation](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) for more tips and tricks, plus great tools that can help you as an organiser.
+
 ### Contribution Guidelines
 
 If you have new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
