@@ -170,7 +170,7 @@ Even though GitHub Hackathons are about solving problems with technology, the mo
 
 Most hackathon goers would have heard of the terms coder, innovator, designer. These three terms refer to the different roles within a hackathon team (even a team of one). If you have the right mix of these three personas, you’ll have the perfect dream team!
 
-### So who are these people and what’s their roles?
+### Who are these people and what’s their roles?
 
 **Coder:** your techies. Engineers and developers are your coders. They are the dev gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple coders in the group, just like a product or service will have multiple developers working on it together.
 
