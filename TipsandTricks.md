@@ -209,12 +209,32 @@ But a little light hearted competition can go a long way to motivate people. Whe
 So all the fun is over, now what? There’s a number of options for what to do after a hackathon.
 
 What you choose will depend on the reason for running the hackathon, what resources you have available, and what you’re able to do. Here’s some idea of what you can do at the end of the hackathon:
-- **Present the ideas:** showcase the ideas in a public forum. Create a video, write a blog post, or have them on your website. Participants will be able to see the projects they created and tell their friends. Others in the community can see how successful your hackathon was. 
-- **Share it:** your hackathon was successful and new ideas were created, and problems solved. Why not celebrate that? Post about it on social media, share some highlights and more. Encourage participants to share on their channels, and to put their accolades on places like LinkedIn. For an example, check out the GitHub Actions Hackathon blog post.
-- **Showcase the ideas:** encourage participants to add their hackathon creations to their own LinkedIn and GitHub profiles. Using the “pin project” on each individual’s GitHub profile is a great way to showcase what’s been built.
-- **Incubate the ideas:** some people in the hackathon might like to continue to build some of the ideas. If you have people who can help your participants take their ideas to the next level, do it!
-- **Implement concepts:** encourage your participants who attended the hackathon to understand the concepts learned during the hackathon and get them to apply them to everyday work life. Innovation, creativity, problem solving, critical thinking, teamwork, communication, and customer-centric thinking, should all become part of the way you work.
-- **Do another hackathon!** Liked the hackathon? Then run another one! Some hackathons run annual, half-yearly, and even mini-monthly hackathons.
+
+### Present it
+
+Showcase the ideas in a public forum. Create a video, write a blog post, or have them on your website. Participants will be able to see the projects they created and tell their friends. Others in the community can see how successful your hackathon was. 
+
+### Share it**
+
+Your hackathon was successful and new ideas were created, and problems solved. Why not celebrate that? Post about it on social media, share some highlights and more.
+
+Encourage participants to share on their channels, and to put their accolades on places like LinkedIn. For an example, check out the [GitHub Actions Hackathon blog post](https://github.blog/2020-04-09-featured-actions-from-the-github-actions-hackathon/).
+
+### Showcase it
+
+Encourage participants to add their hackathon creations to their own LinkedIn and GitHub profiles. Using the “pin project” on each individual’s GitHub profile is a great way to showcase what’s been built.
+
+### Incubate ideas
+
+Some people in the hackathon might like to continue to build some of the ideas. If you have people who can help your participants take their ideas to the next level, do it!
+
+### Implement concepts
+
+Encourage your participants who attended the hackathon to understand the concepts learned during the hackathon and get them to apply them to everyday work life. Innovation, creativity, problem solving, critical thinking, teamwork, communication, and customer-centric thinking, should all become part of the way you work.
+
+### Do another hackathon!
+
+Liked the hackathon? Then run another one! Some hackathons run annual, half-yearly, and even mini-monthly hackathons.
 
 <div>
 <img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/After.png" width="400">
