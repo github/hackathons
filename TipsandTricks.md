@@ -151,7 +151,7 @@ What you choose will depend on the reason for running the hackathon, what resour
 
 ## Tips and Tricks
 
-We hope these Tips and Tricks were useful. If you'd like to continue using this Resource, feel free. You can also [download this document as a PDF](https://github.com/MishManners/GitHub-Hackathons/files/6448853/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
+We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/MishManners/GitHub-Hackathons/files/6448853/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
 
 ### Contribution Guidelines
 
