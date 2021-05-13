@@ -16,3 +16,4 @@ To organize an event that qualifies as an official GitHub Hackathon, these are t
 
 If you have questions about the GitHub Hackathon Criteria, please [open an issue]() and we'll try and respond as soon as possible.
 
+<img src=https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Hackathon%20Colours%20GitHub%20Logo%20-%20Pink.png width="100">
