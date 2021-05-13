@@ -1,4 +1,4 @@
-# GitHub Hackathons
+# ![GitHub Hackathons](https://user-images.githubusercontent.com/36594527/118075399-4a4e4380-b3f3-11eb-8cd9-5196988ff25b.png)
 
 We know there are _lots_ of different types of hackathons. If you'd like to have your hackathon promoted by GitHub, you can submit a request to have your hackathon featured on our [GitHub Events page](https://github.com/events). If you'd like to do this however, your hackathon will need to align to specific criteria. Read on to find out more.
 
