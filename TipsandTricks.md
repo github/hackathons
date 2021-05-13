@@ -115,15 +115,15 @@ Virtual coding hackathons can last anywhere between a couple of days, and a few 
 
 Even though GitHub Hackathons are about solving problems with technology, the most successful projects always have a diverse set of people involved. Even when it comes to coding, you don’t want all the same people in one team. For example, if you have all front-end developers, you’ll get lots of nice websites, but no back-end functionality. If it’s all coders then the design might be terrible, the documentation or video not understandable or the business idea not well thought through.
 
-Most hackathon goers would have heard of the terms hacker, hustler, hipster. These three terms refer to the different roles within a hackathon team (even a team of one). If you have the right mix of these three personas, you’ll have the perfect dream team!
+Most hackathon goers would have heard of the terms coder, innovator, designer. These three terms refer to the different roles within a hackathon team (even a team of one). If you have the right mix of these three personas, you’ll have the perfect dream team!
 
 ### So who are these people and what’s their roles?
 
-**Hacker: **your techies. Engineers and developers are your hackers. They are the code gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple hackers in the group, just like a product or service will have multiple developers working on it together.
+**Coder:** your techies. Engineers and developers are your coders. They are the code gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple developers in the group, just like a product or service will have multiple developers working on it together.
 
-**Hustler:** your business and marketing people. They are the ones who go out and validate the ideas, understand the problem, research the market, and usually they’ll be the one presenting the final product.
+**Innovator:** your business and marketing people. They are the ones who go out and validate the ideas, understand the problem, research the market, and usually they’ll be the one presenting the final product.
 
-**Hipster:** your designers! Every project needs great design, from beautiful UI to UX. These people focus on the product itself and how it looks and feels to the customer.
+**Designer:** your designers! Every project needs great design, from beautiful UI to UX. These people focus on the product itself and how it looks and feels to the customer.
 
 Any one person could have multiple skill sets that cover multiple roles above. For a hackathon however where there is a short timeframe required, it’s best to pick one role and focus your efforts there. It can also be more beneficial to the team as roles are clearly defined and the team will be able to deliver something faster.
 
