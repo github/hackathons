@@ -21,6 +21,11 @@ Developers love working on hackathons for a number of reasons. When it comes to 
 - Opportunity to work on/with great software, technology, datasets
 - Of course, people always appreciate any freebies and SWAG!
 
+<div>
+<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/swag_shirts.png" width="300">
+<p><sup>Participants love their SWAG. What can you offer?</sup></p>
+</div>
+
 When creating a hackathon, you should think about what you can provide people as incentives to attend. How are you going to stand out and convince developers your event is a great way to spend their free time?
 
 ## What is  the theme for your hackathon?
