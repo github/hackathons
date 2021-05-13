@@ -47,6 +47,11 @@ Avoid having a hackathon around something very narrow. For example “build a re
 
 Whatever theme you choose, whatever data sets, or technology you decide to have, it’s important to remember you’ll need mentors and experts there to help. For example, if you are using a data set that shows information around traffic congestion in the city, it’s useful to have someone from the transport industry to help explain the data. If you’re designing a hackathon to develop on a new blockchain platform, ensure the experts are available to help with that platform. Otherwise you’ll find participants will have questions that can’t be answered quickly and instead will either give up and go home.
 
+<div>
+<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Game%20Off.png" width="400">
+  <p><sup><a href="https://itch.io/jam/game-off-2019">GitHub's Game Off</a> for example, only requires participants to build a game. There is no other criteria beyond this.</p>
+</div>
+
 ## Is the event in-person or online?
 
 You’ll need to decide if this event is virtual (online) or physical (in-person). There are pros and cons to each type of event. Let’s take a look at what those are:
