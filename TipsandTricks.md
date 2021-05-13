@@ -104,6 +104,11 @@ Now you have decided on online or in-person you also need to decide the type of 
 
 These are some of the things you can consider implementing into your hackathon plan.
 
+<div>
+<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Agenda.png" width="400">
+  <p></p>
+</div>
+
 ### Kick off
 
 The opening ceremony is your hype train. This is your opportunity to present to participants, sponsors, VIPs, and supporters about the hackathon. In the opening ceremony you can consider adding:
@@ -143,11 +148,21 @@ Other things you might like to consider depending on budget and goals:
   - Video sessions: vox pops with participants, sponsors, organizers
   - LEGO Serious Play
 
+<div>
+<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Closing%20ceremony.png" width="400">
+  <p></p>
+</div>
+
 ## How long should the hackathon be?
 
 Most physical, in-person hackathons will be run over one to three days. This is due to the intense nature of physical events and the required energy from both participants and organizers.
 
 Virtual coding hackathons can last anywhere between a couple of days, and a few weeks. Think about what you’re trying to achieve and ensure you give participants adequate time to build out their ideas.
+
+<div>
+<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Time.png" width="400">
+  <p></p>
+</div>
 
 ## What types of people will the hackathon suit?
 
@@ -157,13 +172,17 @@ Most hackathon goers would have heard of the terms coder, innovator, designer. T
 
 ### So who are these people and what’s their roles?
 
-**Coder:** your techies. Engineers and developers are your coders. They are the code gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple developers in the group, just like a product or service will have multiple developers working on it together.
+**Coder:** your techies. Engineers and developers are your coders. They are the dev gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple coders in the group, just like a product or service will have multiple developers working on it together.
 
 **Innovator:** your business and marketing people. They are the ones who go out and validate the ideas, understand the problem, research the market, and usually they’ll be the one presenting the final product.
 
-**Designer:** your designers! Every project needs great design, from beautiful UI to UX. These people focus on the product itself and how it looks and feels to the customer.
+**Designer:** your creative type. Every project needs great design, from beautiful UI to UX. These people focus on the product itself and how it looks and feels to the customer.
 
-Any one person could have multiple skill sets that cover multiple roles above. For a hackathon however where there is a short timeframe required, it’s best to pick one role and focus your efforts there. It can also be more beneficial to the team as roles are clearly defined and the team will be able to deliver something faster.
+<div>
+<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Asset%201%404x.png" width="300">
+  <p><sup>Any one person could have multiple skill sets that cover multiple roles above. For a hackathon however where there is a short timeframe required, it’s best to pick one role and focus your efforts there. It can also be more beneficial to the team as roles are clearly defined and the team will be able to deliver something faster.</p>
+</div>
+
 
 ## How should we ‘judge’ the ideas presented?
 
