@@ -94,6 +94,10 @@ You’ll need to decide if this event is virtual (online) or physical (in-person
 - Harder to coordinate people into teams 
 - Harder to know if people need more help and to build connections with your mentors
 
+If you prefer graphical formats, you might like this table showing the above information:
+
+![Format Table](https://user-images.githubusercontent.com/36594527/118071182-a2347c80-b3ea-11eb-9be2-9217a1f55790.png)
+
 ## What is the agenda of the hackathon?
 
 Now you have decided on online or in-person you also need to decide the type of format you want.
