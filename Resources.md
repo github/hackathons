@@ -10,6 +10,10 @@ Don't forget to read our own [Tips and Tricks document](https://github.com/MishM
 
 You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
 
+## [Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct)
+
+Nearly every event nowadays requires a Code of Conduct. If you are looking for a good basis to build your Code of Conduct, check out the [GitHub Event Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct) there's also the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), another great place to start.
+
 ## [Dev.to](https://dev.to/)
 
 Dev.to is a community of software developers. They help one another out, posting tutorials, information, and collaborating. Dev.to host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon.
