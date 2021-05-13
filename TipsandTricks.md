@@ -98,24 +98,35 @@ You’ll need to decide if this event is virtual (online) or physical (in-person
 
 Now you have decided on online or in-person you also need to decide the type of format you want.
 
-These are some of the things you can consider implementing into your hackathon plan:
+These are some of the things you can consider implementing into your hackathon plan.
 
-- Kick off: the opening ceremony is your hype train. This is your opportunity to present to participants, sponsors, VIPs, and supporters about the hackathon. In the opening ceremony you can consider adding:
-  - Welcome from a sponsor or VIP
-  - Information around what the problem is or why you decided to run a hackathon
-  - Information from sponsors
-  - Tips and tricks for a successful hackathon from a participant’s point of view
-  - Explain how the results will be judged  (ie. presenting, judging, voting etc.)
-  - Any team formation exercises if needed.
-- Check in sessions: Regular review periods where you focus attendees attention on what is happening and where people are at. This will help keep participants on track but sometimes is also an opportunity for teams to join resources or for people to swap teams if another solution sounds like something they would have more fun implementing
-- In a longer running hackathon, you might also hold workshops. Giving help on pitching, coding, design thinking, open source, maintaining projects, problem solving etc. All these workshops will not only upskill participants but will also help them develop good ideas and contribute to a successful hackathon
-- Closing ceremony: whether online or in person, it’s great to close out the hackathon:
-  - Presentation of ideas
-  - Judging of ideas
-  - Presentation of prizes
-  - Recap hackathon
-  - Thank yous
-  - Next steps (see below)
+### Kick off
+
+The opening ceremony is your hype train. This is your opportunity to present to participants, sponsors, VIPs, and supporters about the hackathon. In the opening ceremony you can consider adding:
+- Welcome from a sponsor or VIP
+- Information around what the problem is or why you decided to run a hackathon
+- Information from sponsors
+- Tips and tricks for a successful hackathon from a participant’s point of view
+- Explain how the results will be judged  (ie. presenting, judging, voting etc.)
+- Any team formation exercises if needed.
+
+### Check in sessions
+
+Regular review periods where you focus attendees attention on what is happening and where people are at. This will help keep participants on track but sometimes is also an opportunity for teams to join resources or for people to swap teams if another solution sounds like something they would have more fun implementing.
+
+### Workshops
+
+In a longer running hackathon, you might also hold workshops. Giving help on pitching, coding, design thinking, open source, maintaining projects, problem solving etc. All these workshops will not only upskill participants but will also help them develop good ideas and contribute to a successful hackathon.
+
+### Closing ceremony
+
+Closing ceremony: whether online or in person, it’s great to close out the hackathon:
+- Presentation of idea
+- Judging of ideas
+- Presentation of prizes
+- Recap hackathon
+- Thank yous
+- Next steps (see below)
 
 Other things you might like to consider depending on budget and goals:
 - Food and drink breaks: mix groups up and allow them to network with a wider group of people
@@ -126,6 +137,7 @@ Other things you might like to consider depending on budget and goals:
   - Best memes
   - Massages
   - Video sessions: vox pops with participants, sponsors, organizers
+  - LEGO Serious Play
 
 ## How long should the hackathon be?
 
