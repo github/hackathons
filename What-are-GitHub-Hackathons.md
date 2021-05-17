@@ -14,6 +14,6 @@ To organize an event that qualifies as an official GitHub Hackathon, these are t
 - The hackathon projects and ideas MUST be available in a public GitHub repository and published with a recognized open source license. When you create your code repository in GitHub, we help you pick a license or see [choose a license](https://choosealicense.com/) for more information.
 - The hackathon MUST enforce a code of conduct to help ensure the event is inclusive and welcoming to all. The type of code of conduct varies depending on if your hackathon is in-person or online. For an in-person event, something like the [GitHub Event Code of Conduct](https://help.github.com/en/github/site-policy/github-event-code-of-conduct) is a great start. For any open source repo, you’ll need a Code of Conduct, which can be found on the [Contributor Covenant](https://help.github.com/en/github/site-policy/github-event-code-of-conduct).
 
-If you have questions about the GitHub Hackathon Criteria, please [open an issue]() and we'll try and respond as soon as possible.
+If you have questions about the GitHub Hackathon Criteria, please [open an issue](https://github.com/github/hackathons/issues/new?assignees=MishManners&labels=&template=HackathonCriteria.md&title=Question+%E2%9D%93+regarding+eligibity+criteria+) and we'll try and respond as soon as possible.
 
 <img src=https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Hackathon%20Colours%20GitHub%20Logo%20-%20Pink.png width="100">
