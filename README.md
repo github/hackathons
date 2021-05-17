@@ -10,9 +10,9 @@ There are three main sections to this repository:
 
 📚 [Resources](https://github.com/github/hackathons/blob/main/Resources.md)
 
-📣 [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
+📣 [Discussions](https://github.com/github/hackathons/discussions/1)
 
-Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/MishManners/GitHub-Hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+).
+Guidelines are detailed below on how to contribute to each of these documents. If there are other issues you'd like to flag, please [open an issue](https://github.com/github/hackathons/issues/new?assignees=MishManners&labels=&template=IssueFeatureBug.md&title=%3Azap%3A+Request+to+add+tip+or+trick+to+documentation+%3Abug%3A+).
 
 ### Participating in a hackathon
 
@@ -66,6 +66,6 @@ You can also [head to the Discussions](https://github.com/github/hackathons/disc
 
 ## 📣 [Discussions](https://github.com/github/hackathons/discussions/1)
 
-This is a great place to connect to other hackathon organisers. You can use the [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/tips-and-tricks) or [Resources](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/resources) Discussions before adding content to this repository. You can also share [ideas](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/ideas), talk about [random things](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/general), or [ask questions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/q-a).
+This is a great place to connect to other hackathon organisers. You can use the [Tips and Tricks](https://github.com/github/hackathons/discussions/categories/tips-and-tricks) or [Resources](https://github.com/github/hackathons/discussions/categories/resources) Discussions before adding content to this repository. You can also share [ideas](https://github.com/github/hackathons/discussions/categories/ideas), talk about [random things](https://github.com/github/hackathons/discussions/categories/general), or [ask questions](https://github.com/github/hackathons/discussions/categories/q-a).
 
 This is an open community so feel free to answer any of the questions in the Discussions, comment on other people's threads, and share your own ideas too. Remember, constructive thoughts and feedback is good, just please always be mindful not to shut people down or discourage members of the community.
