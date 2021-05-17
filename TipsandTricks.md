@@ -8,7 +8,7 @@ Don’t believe the Hollywood movies! In general, a hackathon usually has nothin
 
 A hackathon is a short competition where people work together in teams to solve problems and challenges by coming up with solutions and ideas.
 
-We know there are _lots_ of different types of hackathons. If you'd like to have your hackathon promoted by GitHub, you can submit a request to have your hackathon featured on our [GitHub Events page](https://github.com/events). If you'd like to do this however, your hackathon will need to align to specific criteria. Read about the criteria on our [What is a GitHub Hackathon](https://github.com/MishManners/GitHub-Hackathons/blob/main/What-are-GitHub-Hackathons.md) documentation.
+We know there are _lots_ of different types of hackathons. If you'd like to have your hackathon promoted by GitHub, you can submit a request to have your hackathon featured on our [GitHub Events page](https://github.com/events). If you'd like to do this however, your hackathon will need to align to specific criteria. Read about the criteria on our [What is a GitHub Hackathon](https://github.com/github/hackathons/blob/main/What-are-GitHub-Hackathons.md) documentation.
 
 ## Why would developers come to your hackathon?
 
@@ -22,7 +22,7 @@ Developers love working on hackathons for a number of reasons. When it comes to 
 - Of course, people always appreciate any freebies and SWAG!
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/swag_shirts.png" width="300">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/swag_shirts.png" width="300">
 <p><sup>Participants love their SWAG. What can you offer?</sup></p>
 </div>
 
@@ -35,7 +35,7 @@ Your theme could be very specific (ie. how to use AI to solve traffic congestion
 You don’t need to have a theme. Depending on your goals, simply having a“build something, anything, in 24 hours, and present the solution for review.” can be a good way of encouraging networking and building teams. These hackathons often have a “it has to work” theme rather than a specific problem to solve. This leaves the hackathon completely open to the participants to define their own problems and suggest a solution for it.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Explore.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Explore.png" width="400">
   <p></p>
 </div>
 
@@ -44,7 +44,7 @@ It can be really great for encouraging new startup ideas, business ideas, and wh
 Other times you may want a theme, but still remember to keep it relatively broad. Themes like “MedTech”, “aged care”, “transportation”, or similar are great because they are very broad and can be taken in a lot of different contexts. Another example is the GitHub Game Off where the only guidance is that participants have to build a game. Other times you may want to narrow it down a little further. Slightly more narrow themes such as “How can we unlock a city’s potential?”, “how can we use machine learning in MedTech”, or “how can we use data X for the purpose of X industry?”. These are good because they are broad enough for people to interpret them, and narrow enough that desired outcomes are achieved.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Game%20Off.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Game%20Off.png" width="400">
   <p><sup><a href="https://itch.io/jam/game-off-2019">GitHub's Game Off</a> for example, only requires participants to build a game. There is no other criteria beyond this.</p>
 </div>
 
@@ -53,7 +53,7 @@ Avoid having a hackathon around something very narrow. For example “build a re
 Whatever theme you choose, whatever data sets, or technology you decide to have, it’s important to remember you’ll need mentors and experts there to help. For example, if you are using a data set that shows information around traffic congestion in the city, it’s useful to have someone from the transport industry to help explain the data. If you’re designing a hackathon to develop on a new blockchain platform, ensure the experts are available to help with that platform. Otherwise you’ll find participants will have questions that can’t be answered quickly and instead will either give up and go home.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Asset%201%404x.png" width="300">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Asset%201%404x.png" width="300">
   <p><sup>Not sure where to start as a developer? Check out our <a href="https://developer.github.com">handy guides and reference documentation</a> you can use to start building.</p>
 </div>
 
@@ -105,7 +105,7 @@ Now you have decided on online or in-person you also need to decide the type of 
 These are some of the things you can consider implementing into your hackathon plan.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Agenda.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Agenda.png" width="400">
   <p></p>
 </div>
 
@@ -149,7 +149,7 @@ Other things you might like to consider depending on budget and goals:
   - LEGO Serious Play
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Closing%20ceremony.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Closing%20ceremony.png" width="400">
   <p></p>
 </div>
 
@@ -160,7 +160,7 @@ Most physical, in-person hackathons will be run over one to three days. This is 
 Virtual coding hackathons can last anywhere between a couple of days, and a few weeks. Think about what you’re trying to achieve and ensure you give participants adequate time to build out their ideas.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Time.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Time.png" width="400">
   <p></p>
 </div>
 
@@ -179,7 +179,7 @@ Most hackathon goers would have heard of the terms coder, innovator, designer. T
 **Designer:** your creative type. Every project needs great design, from beautiful UI to UX. These people focus on the product itself and how it looks and feels to the customer.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Designer%20Coder%20Innovator.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Designer%20Coder%20Innovator.png" width="400">
   <p><sup>Any one person could have multiple skill sets that cover multiple roles above. For a hackathon however where there is a short timeframe required, it’s best to pick one role and focus your efforts there. It can also be more beneficial to the team as roles are clearly defined and the team will be able to deliver something faster.</p>
 </div>
 
@@ -190,7 +190,7 @@ First thing to note, not every hackathon needs to have judging. For example, the
 But a little light hearted competition can go a long way to motivate people. When it comes to coding, here’s some of the areas to think about judging.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/Judge.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/Judge.png" width="400">
   <p></p>
 </div>
 
@@ -237,18 +237,18 @@ Encourage your participants who attended the hackathon to understand the concept
 Liked the hackathon? Then run another one! Some hackathons run annual, half-yearly, and even mini-monthly hackathons.
 
 <div>
-<img src="https://github.com/MishManners/GitHub-Hackathons/blob/main/.github/images/After.png" width="400">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/After.png" width="400">
   <p></p>
 </div>
 
 ## Tips and Tricks
 
-We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/MishManners/GitHub-Hackathons/files/6448853/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
+We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/github/hackathons/files/6448853/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
 
-Don't forget to also check out the [Resources documentation](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) for more tips and tricks, plus great tools that can help you as an organiser.
+Don't forget to also check out the [Resources documentation](https://github.com/github/hackathons/blob/main/Resources.md) for more tips and tricks, plus great tools that can help you as an organiser.
 
 ### Contribution Guidelines
 
-If you have new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
+If you have new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/github/hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
 
 When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
