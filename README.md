@@ -8,7 +8,7 @@ There are three main sections to this repository:
 
 🔮 [Tips and Tricks](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md)
 
-📚 [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
+📚 [Resources](https://github.com/github/hackathons/blob/main/Resources.md)
 
 📣 [Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/1)
 
@@ -39,18 +39,18 @@ If you have new ideas you'd like to add to the Tips and Tricks document, please 
 
 When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
 
-## 📚 [Resources](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md)
+## 📚 [Resources](https://github.com/github/hackathons/blob/main/Resources.md)
 
-Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
+Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/github/hackathon/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
 
 ### Contribution Guidelines
 
-If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure your resource recommendation includes:
+If you would like to add a resource to this document, please [open a pull request](https://github.com/github/hackathons/pulls). Ensure your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
 - Short description about the resource
 
-See the [Resources document](https://github.com/MishManners/GitHub-Hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request could be rejected. Ensure your resource is placed in the correct alphabetical order.
+See the [Resources document](https://github.com/github/hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request could be rejected. Ensure your resource is placed in the correct alphabetical order.
 
 Format for adding your resource:
 
