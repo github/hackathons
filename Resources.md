@@ -2,13 +2,13 @@
 
 Need some resources for your hackathon? Check out all our resources below. This is by no means an exhaustive list. We hope you find it useful.
 
-Whether you’re running an in-person hackathon, or online, here’s some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon so promote it in as many places as possible! Check out the [Readme.md file](https://github.com/MishManners/GitHub-Hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
+Whether you’re running an in-person hackathon, or online, here’s some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon so promote it in as many places as possible! Check out the [Readme.md file](https://github.com/github/hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
 
-Don't forget to read our own [Tips and Tricks document](https://github.com/MishManners/GitHub-Hackathons/blob/main/TipsandTricks.md) for lots of information on running your hackathon.
+Don't forget to read our own [Tips and Tricks document](https://github.com/github/hackathons/blob/main/TipsandTricks.md) for lots of information on running your hackathon.
          
 # Resources
 
-You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
+You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](https://github.com/github/hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
 
 ## [Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct)
 
@@ -107,7 +107,7 @@ No doubt you’ve now heard about Zoom! It’s essential to use some sort of vid
 
 # Contribution Guidelines
 
-If you would like to add a resource to this document, please [open a pull request](https://github.com/MishManners/GitHub-Hackathons/pulls). Ensure your resource recommendation includes:
+If you would like to add a resource to this document, please [open a pull request](https://github.com/github/hackathons/pulls). Ensure your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
 - Short description about the resource
@@ -124,4 +124,4 @@ Format for adding your resource:
 
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
 
-You can also [head to the Discussions](https://github.com/MishManners/GitHub-Hackathons/discussions/categories/resources) to talk about Resources before adding them to this documentation.
+You can also [head to the Discussions](https://github.com/github/hackathons/discussions/categories/resources) to talk about Resources before adding them to this documentation.
