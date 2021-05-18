@@ -252,3 +252,11 @@ Don't forget to also check out the [Resources documentation](https://github.com/
 If you have new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/github/hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
 
 When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
+
+_____
+
+#### Made with ❤️ by GitHub and the community
+
+<div align="center">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/GitHub%20Hackathons%20Logo.png" width="100">
+</div>
