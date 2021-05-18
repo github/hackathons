@@ -2,7 +2,7 @@
 
 Need some resources for your hackathon? Check out all our resources below. This is by no means an exhaustive list. We hope you find it useful.
 
-Whether you’re running an in-person hackathon, online, or even hybrid, here’s some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon so promote it in as many places as possible! Check out the [Readme.md file](https://github.com/github/hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
+Whether you’re running an in-person hackathon, online, or even hybrid, here’s some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon so promote it in as many places as possible! Check out the [Readme file](https://github.com/github/hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
 
 Don't forget to read our own [Tips and Tricks document](https://github.com/github/hackathons/blob/main/TipsandTricks.md) for lots of information on running your hackathon.
          
