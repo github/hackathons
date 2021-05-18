@@ -96,6 +96,10 @@ The communication tool of this century! If you don’t have it, you need it. All
 
 ![Slack](https://user-images.githubusercontent.com/36594527/117923901-3560aa00-b338-11eb-8f79-3e649a084671.gif)
 
+## [Splash](https://splashthat.com/)
+
+An event marketing platform that helps with all virtual, hybrid, and live events. It's mostly an event registration/management platform that pairs nicely if you're already using Zoom, YouTube live, etc. to run your virtual event. You can also use it for IRL events, just don't use the streaming part of it. Splash will help create all your marketing assets like event page, registration form, emails, branded live stream, check-in, stats and more.
+
 ## [Stack Overflow](https://stackoverflow.com/)
 
 If you've never heard about Stack Overflow  this is the perfect time to get familiar. This is the place where developers come to learn together. The [Q&A Section](https://stackoverflow.com/questions) is probably what you'll want to look at the most. As an organiser, this is the perfect resource to point your participants to when they need answers on pretty much any developer question on the planet.
