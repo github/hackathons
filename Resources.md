@@ -74,6 +74,12 @@ From GitHub’s own Hackathon Queen. Mish puts up lots of insights into hackatho
 ## [Hackathons International](https://hackathonsinternational.com)
 
 Hackathons International is a global organisation, started in Melbourne. They have a whole host of hackathons on their website. This is a great resource if you’re looking to send your customers/clients to hackathons. There’s featured hacks from all over the globe. There’s also opportunities for you to have your hackathon featured on the website too. Their site also has a blog with lots of tips and tricks on running a hackathon too.
+
+## [Localist](https://www.localist.com/)
+
+Event management, marketing automation, and tonnes of analytics is what Localist is. There's custom branding and you can get a lot of insights about your community from the built-in data. It is designed specifically for community events. It's main appeal is the community calendar that allows you to display all the events coming up in your community. This is useful if you're running more than one hackathon and you want your community to see what's available to them.
+
+![Localist2](https://user-images.githubusercontent.com/36594527/118575019-e6e45d00-b7c8-11eb-977b-4cde33c87700.gif)
         
 ## [Major League Hacking](https://mlh.io/)
 
