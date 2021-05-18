@@ -150,3 +150,11 @@ Format for adding your resource:
 Remember, this resource is for organisers, not participants. If your resource is not for organisers and does not meet the requirements above, your pull request could be rejected.
 
 You can also [head to the Discussions](https://github.com/github/hackathons/discussions/categories/resources) to talk about Resources before adding them to this documentation.
+
+_____
+
+#### Made with ❤️ by GitHub and the community
+
+<div align="center">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/GitHub%20Hackathons%20Logo.png" width="100">
+</div>
