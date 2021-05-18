@@ -90,6 +90,12 @@ Find out where all the awesome hackathons are running! There’s a whole bunch o
 ## [Menitmeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
 
+## [Party Space](https://www.party.space/)
+
+This platform for hosting virtual events is like playing a first person shooter. You walk around in the virtual space in FPS view and bump into other people. It can be a 2D or 3D space and has a super interactive feel. You can sit together with other people and watch videos, play games like Pacman, go to the bar, hang out in a room or just run around and explore the space. It's perfect in VR too. This would be a great platform for gaming hackathons.
+
+![Party4](https://user-images.githubusercontent.com/36594527/118588437-bb21a100-b7e1-11eb-82e8-184bd50de5bb.gif)
+
 ## [Remo](https://remo.co)
 
 Another one for the virtual event orgainsers. Remo is a fully online and customisable virtual event experience. This really makes participants feel like they are at a physical hackathon. It has all the features of a real building; elevators, different floors, tables to 'sit' at, and places to watch larger presentations. It's perfect if you want to run with the 'weekend long' format in a virtual setting.
