@@ -69,3 +69,11 @@ You can also [head to the Discussions](https://github.com/github/hackathons/disc
 This is a great place to connect to other hackathon organisers. You can use the [Tips and Tricks](https://github.com/github/hackathons/discussions/categories/tips-and-tricks) or [Resources](https://github.com/github/hackathons/discussions/categories/resources) Discussions before adding content to this repository. You can also share [ideas](https://github.com/github/hackathons/discussions/categories/ideas), talk about [random things](https://github.com/github/hackathons/discussions/categories/general), or [ask questions](https://github.com/github/hackathons/discussions/categories/q-a).
 
 This is an open community so feel free to answer any of the questions in the Discussions, comment on other people's threads, and share your own ideas too. Remember, constructive thoughts and feedback is good, just please always be mindful not to shut people down or discourage members of the community.
+
+_______
+
+#### Made with ❤️ by GitHub
+
+<div align="center">
+<img src="https://github.com/github/hackathons/blob/main/.github/images/GitHub%20Hackathons%20Logo.png" width="100">
+</div>
