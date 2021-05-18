@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# ![Code of Conduct](https://user-images.githubusercontent.com/36594527/118597758-7cdfae00-b7f0-11eb-97c0-57131cbd9994.png)
 
 ## Our Pledge
 
