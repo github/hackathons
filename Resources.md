@@ -90,6 +90,10 @@ Find out where all the awesome hackathons are running! There’s a whole bunch o
 ## [Menitmeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
 
+## [Open Source Guides](https://opensource.guide/)
+
+This guide is mostly geared towards people launching Open Source projects, but there's a lot of great information on [building a community](https://opensource.guide/building-community/). This is also a really good resource to point your participants to at the end of the hackathon. The guide can be used if participants in your hackathon want to launch their projects after the hack. Alternatively, if you've discovered some really cool things during the course of organising your hackathon, you can open source your findings! This guide will be perfect for showing off the things you learned.
+
 ## [Party Space](https://www.party.space/)
 
 This platform for hosting virtual events is like playing a first person shooter. You walk around in the virtual space in FPS view and bump into other people. It can be a 2D or 3D space and has a super interactive feel. You can sit together with other people and watch videos, play games like Pacman, go to the bar, hang out in a room or just run around and explore the space. It's perfect in VR too. This would be a great platform for gaming hackathons.
