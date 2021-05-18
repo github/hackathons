@@ -255,7 +255,7 @@ When talking about tips and tricks, ensure that your additions/changes includes 
 
 _____
 
-#### Made with ❤️ by GitHub and the community
+#### Made with ❤️ by GitHub and friends
 
 <div align="center">
 <img src="https://github.com/github/hackathons/blob/main/.github/images/GitHub%20Hackathons%20Logo.png" width="100">
