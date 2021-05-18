@@ -31,7 +31,7 @@ Please note this repository is **NOT** geared towards participants. This reposit
 
 The [Tips and Tricks file](https://github.com/github/hackathons/blob/main/TipsandTricks.md) contains lots of information on how to run your hackathon. Whether you're thinking about running and in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
 
-You can [download](https://github.com/MishManners/GitHub-Hackathons/files/6448857/GitHub.Hackathon.Tips.and.Tricks.2020.pdf) this document as a PDF. Feel free to use it, share it around, and consult it.
+You can [download](https://github.com/github/hackathons/files/6497549/GitHub.Hackathon.Tips.and.Tricks.2020.pdf) this document as a PDF. Feel free to use it, share it around, and consult it.
 
 ### Contribution Guidelines
 
@@ -48,7 +48,7 @@ Organisers are often looking for good resources for running their hackathons. Th
 If you would like to add a resource to this document, please [open a pull request](https://github.com/github/hackathons/pulls). Ensure your resource recommendation includes:
 - Name of the resource
 - Link to the resource (ie. website)
-- Short description about the resource
+- Short description of the resource
 
 See the [Resources document](https://github.com/github/hackathons/blob/main/Resources.md) to see how other resources are displayed. Please follow this format otherwise your pull request could be rejected. Ensure your resource is placed in the correct alphabetical order.
 
