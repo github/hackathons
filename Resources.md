@@ -102,6 +102,10 @@ The communication tool of this century! If you don’t have it, you need it. All
 
 ![Slack](https://user-images.githubusercontent.com/36594527/117923901-3560aa00-b338-11eb-8f79-3e649a084671.gif)
 
+## [Sparkle](https://sparklespaces.com/)
+
+There's definitely a lot more event plaforms around now. Sparkle is an interactive and immersive space for running your virtual events. There are interactive maps, social venues, customisable spaces, chat, video, and more. It's super colourful and great for hosting a hackathon. 
+
 ## [Splash](https://splashthat.com/)
 
 An event marketing platform that helps with all virtual, hybrid, and live events. It's mostly an event registration/management platform that pairs nicely if you're already using Zoom, YouTube live, etc. to run your virtual event. You can also use it for IRL events, just don't use the streaming part of it. Splash will help create all your marketing assets like event page, registration form, emails, branded live stream, check-in, stats and more.
