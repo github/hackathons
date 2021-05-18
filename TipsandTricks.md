@@ -243,7 +243,7 @@ Liked the hackathon? Then run another one! Some hackathons run annual, half-year
 
 ## Tips and Tricks
 
-We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/github/hackathons/files/6448853/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
+We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/github/hackathons/files/6497549/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
 
 Don't forget to also check out the [Resources documentation](https://github.com/github/hackathons/blob/main/Resources.md) for more tips and tricks, plus great tools that can help you as an organiser.
 
