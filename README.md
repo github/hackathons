@@ -24,6 +24,8 @@ Please note this repository is **NOT** geared towards participants. This reposit
 - [DevFolio](https://devfolio.co/hackathons)
 - [Hack Club](https://hackathons.hackclub.com/)
 - [HackaList](http://www.hackalist.org/)
+- [AngelHack](https://angelhack.com/hackathons/)
+- [Hackathon IO](https://www.hackathon.io/)
 
 **Organisers,** the above sites are great places where you can promote your hackathon!
 
