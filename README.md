@@ -41,6 +41,8 @@ If you have new ideas you'd like to add to the Tips and Tricks document, please 
 
 When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
 
+## We're opted in for Hacktoberfest, so please feel free to contribute based on the guidelines here ##
+
 ## 📚 [Resources](https://github.com/github/hackathons/blob/main/Resources.md)
 
 Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/github/hackathons/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
