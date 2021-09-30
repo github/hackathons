@@ -41,7 +41,7 @@ If you have new ideas you'd like to add to the Tips and Tricks document, please 
 
 When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
 
-## We're opted in for Hacktoberfest, so please feel free to contribute based on the guidelines here ##
+#### We're opted in for Hacktoberfest, so please feel free to contribute based on the guidelines here ##
 
 ## 📚 [Resources](https://github.com/github/hackathons/blob/main/Resources.md)
 
