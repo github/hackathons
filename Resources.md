@@ -14,9 +14,9 @@ You'll find an alphabetical list of resources below. If you'd like to add your o
 
 Nearly every event nowadays requires a Code of Conduct. If you are looking for a good basis to build your Code of Conduct, check out the [GitHub Event Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct) there's also the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), another great place to start.
 
-## [Dev.to](https://dev.to/)
+## [DEV](https://dev.to/)
 
-Dev.to is a community of software developers. They help one another out, posting tutorials, information, and collaborating. Dev.to host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon.
+DEV is a community of software developers. They help one another out, posting tutorials, information, and collaborating. DEV host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon.
 
 ![6hqmcjaxbgbon8ydw93z](https://user-images.githubusercontent.com/36594527/117923859-2679f780-b338-11eb-83a9-aebd1f4f9bf1.png)
         
