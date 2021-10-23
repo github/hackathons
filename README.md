@@ -31,7 +31,7 @@ Please note this repository is **NOT** geared towards participants. This reposit
 
 ## 🔮 [Tips and Tricks](https://github.com/github/hackathons/blob/main/TipsandTricks.md)
 
-The [Tips and Tricks file](https://github.com/github/hackathons/blob/main/TipsandTricks.md) contains lots of information on how to run your hackathon. Whether you're thinking about running and in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
+The [Tips and Tricks file](https://github.com/github/hackathons/blob/main/TipsandTricks.md) contains lots of information on how to run your hackathon. Whether you're thinking about running an in-person or online hackathon, this document will help you answer lots of questions you'll be asking.
 
 You can [download](https://github.com/github/hackathons/files/6497549/GitHub.Hackathon.Tips.and.Tricks.2020.pdf) this document as a PDF. Feel free to use it, share it around, and consult it.
 
@@ -39,13 +39,13 @@ You can [download](https://github.com/github/hackathons/files/6497549/GitHub.Hac
 
 If you have new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/github/hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
 
-When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
+When talking about tips and tricks, ensure that your additions/changes include information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
 
 #### We're opted in for Hacktoberfest, so please feel free to contribute based on the guidelines here ##
 
 ## 📚 [Resources](https://github.com/github/hackathons/blob/main/Resources.md)
 
-Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/github/hackathons/blob/main/Resources.md) contains a list of useful resources for you consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
+Organisers are often looking for good resources for running their hackathons. The [Resources file](https://github.com/github/hackathons/blob/main/Resources.md) contains a list of useful resources for you to consult. There's everything here from platforms to host your hackathon, promotion sites, judging recommendations, communication tools, and more.
 
 ### Contribution Guidelines
 
