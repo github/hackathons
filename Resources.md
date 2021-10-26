@@ -143,7 +143,7 @@ Vercel is a virtual event starter kit. It allows you to fully customise your eve
 
 ## [Vevox](https://www.vevox.com/word-cloud)
 
-Vevox is an interactive word cloud generator, polling and Q&A app that can be utilised to run live word cloud polls.It can be used in virtual hackathons to engage participants and increase collaboration. Creating and running a live word cloud poll can evoke excitement and give the participantsenergy as they can see all their text responses appear on your presentation screen in front of them.
+Vevox is an interactive word cloud generator, polling, and Q&A app that can be utilised to run live word cloud polls. It can be used in virtual hackathons to engage participants and increase collaboration. Creating and running a live word cloud poll can evoke excitement, and give the participants energy. People can see all their text responses appear on your presentation screen in front of them.
         
 ## [Zoom](https://zoom.us/)
 
