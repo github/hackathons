@@ -64,8 +64,12 @@ If you’re a student running a hackathon, then why not see if you can get some 
 
 ## [Google Docs](https://www.google.com/docs/about/)
 
-There's lots of documents that go into event planning. Lists, spreadsheets, welcome packs, and more. The good thing is that multiple users of your team can collaborate and add some spices to the docs. You also can share these docs with edit/view access to your audience. It's very easy and secure. Explore it on [Google Docs Page](https://www.google.com/docs/about/).
-        
+There's lots of documents that go into event planning. Lists, spreadsheets, welcome packs, and more. The good thing is that multiple users of your team can collaborate and add some spices to the docs. You also can share these docs with edit/view access to your audience. It's very easy and secure. Explore it on [Google Docs Page](https://www.google.com/docs/about/).      
+
+## [Google Drive](https://www.google.com/intl/en_in/drive/)
+
+Use Google Drive as a communication and organizational tool to keep your organisation team on the same page. Don't bother emailing or dropboxing. Use one thing that does it all, from organising your hackathon, to sharing videos after the event.
+
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
 Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Forms. It’s free and super easy to use.
