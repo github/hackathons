@@ -140,6 +140,10 @@ This the perfect place to find royalty free stock photos and images. They are gr
 ## [Vercel](https://vercel.com/virtual-event-starter-kit)
         
 Vercel is a virtual event starter kit. It allows you to fully customise your event to your needs. It runs in any browser without additional downloads and is perfect if you are thinking of hosting a virtual hackathon with presentations and more of an 'event' flair.
+
+## [Vevox](https://www.vevox.com/word-cloud)
+
+Vevox is an interactive word cloud generator, polling, and Q&A app that can be utilised to run live word cloud polls. It can be used in virtual hackathons to engage participants and increase collaboration. Creating and running a live word cloud poll can evoke excitement, and give the participants energy. People can see all their text responses appear on your presentation screen in front of them.
         
 ## [Zoom](https://zoom.us/)
 
