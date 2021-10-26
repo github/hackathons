@@ -163,6 +163,10 @@ Vevox is an interactive word cloud generator, polling, and Q&A app that can be u
 
 No doubt you’ve now heard about Zoom! It’s essential to use some sort of video conferencing tool when you’re running an offline hackathon with presentations and workshops. Zoom  can be used for organisers to host and kick off a hackathon, as well as having participants dial in and present their ideas at the end. Depending on the format for your hackathon you might decide to limit interaction and leave people to their own devices. If you are interacting with people however, you can’t go past Zoom… just remember to set a password to deter “zoom bombers”!
 
+## [Google Meet](https://meet.google.com/)
+
+Hey, you're gonna do a lot's of meetings and meet-ups during any event. Now Google Meet have made this easy. Just join via a Google Meet link or create and share a meeting like with your fellow teammates or audience and have some fun in the room. There are many more things to that. Explore it on [Google Meet Page](https://meet.google.com)
+
 # Contribution Guidelines
 
 If you would like to add a resource to this document, please [open a pull request](https://github.com/github/hackathons/pulls). Ensure your resource recommendation includes:
