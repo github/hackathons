@@ -61,6 +61,10 @@ Obviously we can’t go past our own amazing developer platform! GitHub  is a gr
 If you’re a student running a hackathon, then why not see if you can get some money to help you out. Through our partnership with Major League Hacking, we offer students $1000 USD to help run a hackathon. Find out more on the [GitHub Campus Experts website](https://education.github.com/students/experts) and click “apply for hackathon grant”.
 
 ![opengraph-bbc921c34890fc1a76d65167838766b9adf12237a9f54354bcea2d4bbbf46e9e](https://user-images.githubusercontent.com/36594527/117616718-d4f23100-b1ae-11eb-96ee-a4d655f083db.png)
+
+## [Google Docs](https://www.google.com/docs/about/)
+
+There's lots of documents that go into event planning. Lists, spreadsheets, welcome packs, and more. The good thing is that multiple users of your team can collaborate and add some spices to the docs. You also can share these docs with edit/view access to your audience. It's very easy and secure. Explore it on [Google Docs Page](https://www.google.com/docs/about/).
         
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
@@ -69,10 +73,6 @@ Are you wanting to run a survey, collect information from participants, or encou
 ## [Google Meet](https://meet.google.com/)
 
 There's going to be lots of meetings and meet-ups during any event. Google Meet have made this easy. Just join via a Google Meet link or create and share a meeting link with your fellow teammates or audience and have some fun. Explore it on [Google Meet Page](https://meet.google.com).
-
-## [Google Docs](https://www.google.com/docs/about/)
-
-There is going to be a lot's of documents which are to be created while hackathon, whether it's a list or planning or documentation or anything. The good thing is that multiple users of your team can collaborate and add some spices to the docs. You also can share this docs with edit/view access to your audience. It's very easy and secure. Explore it on [Google Docs Page](https://www.google.com/docs/about/).
 
 ## [Hackathon Guide](https://hackathon.guide/)
 
