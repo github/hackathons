@@ -29,7 +29,11 @@ DevPost is known as the home for hackathons. Hackathons are featured on there, a
         
 ## [DevPost Expo](https://github.com/nealrs/expo)
 
-DevPost Expo is an open sourced tool for helping filter and distribute table numbers. If you’re running a science-fair, expo style presentation format this is the perfect tool. 
+DevPost Expo is an open sourced tool for helping filter and distribute table numbers. If you’re running a science-fair, expo style presentation format this is the perfect tool.
+
+## [Discord Hackathon Template](https://dis.gd/GHhackathon)
+
+Lots of communities run on Discord these days. If you are running a hackathon for a community that already has a Discord presence, you might want to think about adding a Hackathon Template to your Discord server. This template is designed specifically for hackathons. Give it shot.
         
 ## [Envato](https://envato.com/)
 Envato  is the digital marketplace for EVERYTHING. You can find lots of great resources for using in videos, making presentations, designing graphics, website templates, and heaps more. There’s lots of free content and some cheap assets as well.
