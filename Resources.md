@@ -61,6 +61,10 @@ Obviously we can’t go past our own amazing developer platform! GitHub  is a gr
 If you’re a student running a hackathon, then why not see if you can get some money to help you out. Through our partnership with Major League Hacking, we offer students $1000 USD to help run a hackathon. Find out more on the [GitHub Campus Experts website](https://education.github.com/students/experts) and click “apply for hackathon grant”.
 
 ![opengraph-bbc921c34890fc1a76d65167838766b9adf12237a9f54354bcea2d4bbbf46e9e](https://user-images.githubusercontent.com/36594527/117616718-d4f23100-b1ae-11eb-96ee-a4d655f083db.png)
+
+## [Google Docs](https://www.google.com/docs/about/)
+
+There's lots of documents that go into event planning. Lists, spreadsheets, welcome packs, and more. The good thing is that multiple users of your team can collaborate and add some spices to the docs. You also can share these docs with edit/view access to your audience. It's very easy and secure. Explore it on [Google Docs Page](https://www.google.com/docs/about/).
         
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
