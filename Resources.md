@@ -12,7 +12,7 @@ You'll find an alphabetical list of resources below. If you'd like to add your o
 
 ## [Canva](https://www.canva.com/)
 
-Hacking and building a project in a short timeframe is hard enough without having to worry about the final presentation, or lots of fancy graphics. Luckily, with Canva, you are covered. Get tonnes of graphics for videos, presentations, wireframes, and more. You can get started with [Canva's free tier](https://www.canva.com/pricing/), trial Pro for a free 30 days, or use your [GitHub Student Developer pack](https://education.github.com/experiences/virtual_event_kit) to get 12 months of Canva Pro Tier for free.
+Developing and executing a hackathon is hard enough without having to worry about branding, graphics, emails, and social media. Luckily, with Canva, you are covered. Get tonnes of graphics for your hackathon promo videos, presentations, social media, emails, and more. You can get started with [Canva's free tier](https://www.canva.com/pricing/), trial Pro for a free 30 days, or use your [GitHub Student Developer pack](https://education.github.com/experiences/virtual_event_kit) to get 12 months of Canva Pro Tier for free.
 
 ## [Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct)
 
