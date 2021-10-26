@@ -64,7 +64,11 @@ If you’re a student running a hackathon, then why not see if you can get some 
         
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
-Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Google Forms. It’s free and super easy to use.
+Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Forms. It’s free and super easy to use.
+
+## [Google Meet](https://meet.google.com/)
+
+There's going to be lots of meetings and meet-ups during any event. Google Meet have made this easy. Just join via a Google Meet link or create and share a meeting link with your fellow teammates or audience and have some fun. Explore it on [Google Meet Page](https://meet.google.com).
 
 ## [Hackathon Guide](https://hackathon.guide/)
 
