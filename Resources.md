@@ -101,7 +101,7 @@ Need a resource for doing great interactive presentations? As an organiser, this
 
 ## [Namecheap](https://www.namecheap.com/)
 
-If you're looking for a great domain hosting platform, you can't go past Namecheap. Choose from thousands of domain names to kickstart your hackathon project. If you have the [GitHub Developer Pack](https://education.github.com/experiences/virtual_event_kit) you can register one free .me domain name for 12 months.
+If you're looking for a great domain hosting platform, you can't go past Namecheap. Choose from thousands of domain names to host your hackathon event apge. If you have the [GitHub Developer Pack](https://education.github.com/experiences/virtual_event_kit) you can register one free .me domain name for 12 months.
 
 ## [Open Source Guide](https://opensource.guide/)
 
