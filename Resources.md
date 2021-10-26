@@ -70,6 +70,10 @@ Are you wanting to run a survey, collect information from participants, or encou
 
 There's going to be lots of meetings and meet-ups during any event. Google Meet have made this easy. Just join via a Google Meet link or create and share a meeting link with your fellow teammates or audience and have some fun. Explore it on [Google Meet Page](https://meet.google.com).
 
+## [Google Docs](https://www.google.com/docs/about/)
+
+There is going to be a lot's of documents which are to be created while hackathon, whether it's a list or planning or documentation or anything. The good thing is that multiple users of your team can collaborate and add some spices to the docs. You also can share this docs with edit/view access to your audience. It's very easy and secure. Explore it on [Google Docs Page](https://www.google.com/docs/about/).
+
 ## [Hackathon Guide](https://hackathon.guide/)
 
 The hackathon guide was put together as a guide for running IRL (in person) hackathons. It's a great resource that walks through all the things to consider when running your hackathon, from emailing participants before the event, to booking locations, sorting out workshops, food, sponsorship, and more.
