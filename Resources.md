@@ -139,6 +139,10 @@ If you've never heard about Stack Overflow  this is the perfect time to get fami
 
 ![Stackoverflow3](https://user-images.githubusercontent.com/36594527/117927116-1c0e2c80-b33d-11eb-95fa-2ae6505f2322.gif)
 
+## [Streamyard](https://streamyard.com/)
+
+If you decide to host a virtual hackathon, and you are planning on having multiple presenters/presentations, Streamyard is a fantastic way to host your event. You can bring in multiple presenters on a screen, and it's a pretty good user experience for your speakers. If you have the [GitHub Student Developer Pack](https://education.github.com/experiences/virtual_event_kit), you'll get free access to the Streamyard Essential Plan while you are a student.
+
 ## [Unsplash](https://unsplash.com)
 
 This the perfect place to find royalty free stock photos and images. They are great for promoting your hackathon, putting together event sites, and even using for slide shows.
