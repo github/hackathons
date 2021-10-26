@@ -51,7 +51,6 @@ Gavel  is an open sourced judging tool. It was originally built for a hackathon 
 Obviously we can’t go past our own amazing developer platform! GitHub  is a great way to collaborate on a project, track your progress, manage a project, and more. Check out how to get GitHub for free on our  [GitHub Teams page](https://github.com/pricing). You can also check out our [GitHub Docs Pages](https://docs.github.com/) for heaps of information on using GitHub and how-to guides.
 
 ![banner-code-graph](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
-
         
 ## [GitHub Campus Experts](https://education.github.com/students/experts)
 
@@ -85,7 +84,6 @@ IncubateIND is India's largest and fastest-growing community of technology innov
 
 ![inc](https://user-images.githubusercontent.com/71702982/119085250-ffe74b00-ba20-11eb-9db4-3c43b8e233d2.png)
 
-
 ## [Localist](https://www.localist.com/)
 
 Event management, marketing automation, and tonnes of analytics is what Localist is. There's custom branding and you can get a lot of insights about your community from the built-in data. It is designed specifically for community events. It's main appeal is the community calendar that allows you to display all the events coming up in your community. This is useful if you're running more than one hackathon and you want your community to see what's available to them.
@@ -100,6 +98,10 @@ Find out where all the awesome hackathons are running! There’s a whole bunch o
         
 ## [Menitmeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
+
+## [Namecheap](https://www.namecheap.com/)
+
+If you're looking for a great domain hosting platform, you can't go past Namecheap. Choose from thousands of domain names to kickstart your hackathon project. If you have the [GitHub Developer Pack](https://education.github.com/experiences/virtual_event_kit) you can register one free .me domain name for 12 months.
 
 ## [Open Source Guide](https://opensource.guide/)
 
