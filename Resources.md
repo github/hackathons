@@ -61,6 +61,10 @@ Obviously we can’t go past our own amazing developer platform! GitHub  is a gr
 If you’re a student running a hackathon, then why not see if you can get some money to help you out. Through our partnership with Major League Hacking, we offer students $1000 USD to help run a hackathon. Find out more on the [GitHub Campus Experts website](https://education.github.com/students/experts) and click “apply for hackathon grant”.
 
 ![opengraph-bbc921c34890fc1a76d65167838766b9adf12237a9f54354bcea2d4bbbf46e9e](https://user-images.githubusercontent.com/36594527/117616718-d4f23100-b1ae-11eb-96ee-a4d655f083db.png)
+
+## [Google Drive](https://www.google.com/intl/en_in/drive/)
+
+Use Google Drive as a communication and organizational tool to keep your organisation team on the same page. Don't bother emailing or dropboxing. Use one thing that does it all, from organising your hackathon, to sharing videos after the event.
         
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
@@ -166,10 +170,6 @@ Vevox is an interactive word cloud generator, polling, and Q&A app that can be u
 ## [Zoom](https://zoom.us/)
 
 No doubt you’ve now heard about Zoom! It’s essential to use some sort of video conferencing tool when you’re running an offline hackathon with presentations and workshops. Zoom  can be used for organisers to host and kick off a hackathon, as well as having participants dial in and present their ideas at the end. Depending on the format for your hackathon you might decide to limit interaction and leave people to their own devices. If you are interacting with people however, you can’t go past Zoom… just remember to set a password to deter “zoom bombers”!
-
-## [Google Drive](https://www.google.com/intl/en_in/drive/)
-
-We use Google Drive as a communication and organizational tool to keep the team on the same page. Don't bother emailing or dropboxing. We recommend to use 1 thing that does it all, from projection ideation(docs) to file uploading.
 
 # Contribution Guidelines
 
