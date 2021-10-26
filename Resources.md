@@ -64,7 +64,11 @@ If you’re a student running a hackathon, then why not see if you can get some 
         
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
-Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Google Forms. It’s free and super easy to use.
+Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Forms. It’s free and super easy to use.
+
+## [Google Meet](https://meet.google.com/)
+
+There's going to be lots of meetings and meet-ups during any event. Google Meet have made this easy. Just join via a Google Meet link or create and share a meeting link with your fellow teammates or audience and have some fun. Explore it on [Google Meet Page](https://meet.google.com).
 
 ## [Hackathon Guide](https://hackathon.guide/)
 
@@ -162,10 +166,6 @@ Vevox is an interactive word cloud generator, polling, and Q&A app that can be u
 ## [Zoom](https://zoom.us/)
 
 No doubt you’ve now heard about Zoom! It’s essential to use some sort of video conferencing tool when you’re running an offline hackathon with presentations and workshops. Zoom  can be used for organisers to host and kick off a hackathon, as well as having participants dial in and present their ideas at the end. Depending on the format for your hackathon you might decide to limit interaction and leave people to their own devices. If you are interacting with people however, you can’t go past Zoom… just remember to set a password to deter “zoom bombers”!
-
-## [Google Meet](https://meet.google.com/)
-
-Hey, you're gonna do a lot's of meetings and meet-ups during any event. Now Google Meet have made this easy. Just join via a Google Meet link or create and share a meeting like with your fellow teammates or audience and have some fun in the room. There are many more things to that. Explore it on [Google Meet Page](https://meet.google.com)
 
 # Contribution Guidelines
 
