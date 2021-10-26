@@ -51,7 +51,6 @@ Gavel  is an open sourced judging tool. It was originally built for a hackathon 
 Obviously we can’t go past our own amazing developer platform! GitHub  is a great way to collaborate on a project, track your progress, manage a project, and more. Check out how to get GitHub for free on our  [GitHub Teams page](https://github.com/pricing). You can also check out our [GitHub Docs Pages](https://docs.github.com/) for heaps of information on using GitHub and how-to guides.
 
 ![banner-code-graph](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
-
         
 ## [GitHub Campus Experts](https://education.github.com/students/experts)
 
