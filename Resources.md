@@ -94,6 +94,10 @@ From GitHub’s own Hackathon Queen. Mish puts up lots of insights into hackatho
 
 Hackathons International is a global organisation, started in Melbourne. They have a whole host of hackathons on their website. This is a great resource if you’re looking to send your customers/clients to hackathons. There’s featured hacks from all over the globe. There’s also opportunities for you to have your hackathon featured on the website too. Their site also has a blog with lots of tips and tricks on running a hackathon too.
 
+## [HackerEarth](https://www.hackerearth.com/)
+
+HackerEarth lets you engage or source top developers with hackathons, while also enabling you to assess, interview and upskill them with ease. As a pioneer of conducting hackathons to drive business impact, HackerEarth has a huge amount of experience in conducting and managing hackathons at scale. You can host your hackathons towards a global community of 6 million developers.
+
 ## [IncubateIND](https://www.incubateind.com/)
 
 IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators.They are conducting lot of workshops,challenges and Github Extership program provides attractive stipends and hands on experience.
