@@ -16,7 +16,7 @@ Developing and executing a hackathon is hard enough without having to worry abou
 
 ## [Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct)
 
-Nearly every event nowadays requires a Code of Conduct. If you are looking for a good basis to build your Code of Conduct, check out the [GitHub Event Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct) there's also the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), another great place to start.
+Nearly every event nowadays requires a Code of Conduct. If you are looking for a good basis to build your Code of Conduct, check out the [GitHub Event Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct) there's also the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), another great place to start, as well as the [open source Code of Conduct](https://opensource.guide/code-of-conduct/).
 
 ## [DEV](https://dev.to/)
 
