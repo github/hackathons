@@ -62,6 +62,10 @@ If you’re a student running a hackathon, then why not see if you can get some 
 
 ![opengraph-bbc921c34890fc1a76d65167838766b9adf12237a9f54354bcea2d4bbbf46e9e](https://user-images.githubusercontent.com/36594527/117616718-d4f23100-b1ae-11eb-96ee-a4d655f083db.png)
 
+## [GitHub Classroom](https://classroom.github.com/)
+
+If you're a teacher or an educational institution looking to run a hackathon, look no further than GitHub Classroom. With Classroom, you get free access to Codespaces and lots of resources. You can manage assignments (or hackathon submissions) in your dashboard, grade hackathons automatically, and provide help to your students.
+
 ## [GitHub Issues](https://github.com/features/issues/)
 
 The new GitHub Issues allows users to manage projects. It's the ultimate tool for organising your hackathon and encouraging participants to manage their hackathon projects. Users can create issues, break them into tasks, track relationships, add custom fields, and more. There's ways to visualise projects as tables or boards, and automate everything with code.
