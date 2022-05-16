@@ -72,7 +72,7 @@ Use Google Drive as a communication and organizational tool to keep your organis
 
 ## [Google Forms](https://www.google.com.au/docs/about/)
 
-Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Forms. It’s free and super easy to use.
+Are you wanting to run a survey, collect information from participants, or encourage your participants to collect information for their projects, you can’t go past Forms. It’s free and super easy to use. GitHub now also allows you to [build HTML-like forms](https://dev.to/github/how-to-build-google-like-forms-with-github-3ig2) with the new [GitHub Issues](https://github.com/features/issues/).
 
 ## [Google Meet](https://meet.google.com/)
 
