@@ -106,6 +106,10 @@ Hackathons International is a global organisation, started in Melbourne. They ha
 
 HackerEarth lets you engage or source top developers with hackathons, while also enabling you to assess, interview and upskill them with ease. As a pioneer of conducting hackathons to drive business impact, HackerEarth has a huge amount of experience in conducting and managing hackathons at scale. You can host your hackathons towards a global community of 6 million developers.
 
+## [Holopin](https://www.holopin.io/)
+
+This is a super cool palce where developers can earn verifiable digital badges for skills, achievements, and all the amazing things you do. If you are running a hackathon, think about offering a Holopin badge to participants and place winners. It's a great way to help developers build their resumes.
+
 ## [IncubateIND](https://www.incubateind.com/)
 
 IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators.They are conducting lot of workshops,challenges and Github Extership program provides attractive stipends and hands on experience.
