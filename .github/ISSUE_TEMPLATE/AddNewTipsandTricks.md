@@ -1,7 +1,7 @@
 ---
 name: ✨ Add/edit tip or trick 🔮
 about: 'Adding or editing a tip or trick'
-title: ":sparkles: Request to add tip or trick to documentation :crystal_ball: "
+title: "✨ Request to add tip or trick to documentation 🔮"
 labels: add-tip, documentation
 assignees: MishManners
 
