@@ -7,7 +7,7 @@ assignees: MishManners
 
 ---
 
-What do you want to add a tip or trick or make a change to the documentation? Head to the [Discussions](https://github.com/github/hackathons/discussions) and ask your questions there 😄
+Do you want to add a tip or trick or make a change to the documentation? Head to the [Discussions](https://github.com/github/hackathons/discussions) and ask your questions there 😄
 
 If it's something specific you don't want to ask the community, open an issue, but please start with the [Discussions](https://github.com/github/hackathons/discussions) first!
 
