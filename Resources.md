@@ -177,7 +177,7 @@ If you decide to host a virtual hackathon, and you are planning on having multip
 
 ## [Unsplash](https://unsplash.com)
 
-This the perfect place to find royalty free stock photos and images. They are great for promoting your hackathon, putting together event sites, and even using for slide shows.
+This is the perfect place to find royalty free stock photos and images. They are great for promoting your hackathon, putting together event sites, and even using for slide shows.
 
 ## [Vercel](https://vercel.com/virtual-event-starter-kit)
         
