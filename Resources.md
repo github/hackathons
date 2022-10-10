@@ -108,11 +108,11 @@ HackerEarth lets you engage or source top developers with hackathons, while also
 
 ## [Holopin](https://www.holopin.io/)
 
-This is a super cool palce where developers can earn verifiable digital badges for skills, achievements, and all the amazing things you do. If you are running a hackathon, think about offering a Holopin badge to participants and place winners. It's a great way to help developers build their resumes.
+This is a super cool place where developers can earn verifiable digital badges for skills, achievements, and all the amazing things you do. If you are running a hackathon, think about offering a Holopin badge to participants and place winners. It's a great way to help developers build their resumes.
 
 ## [IncubateIND](https://www.incubateind.com/)
 
-IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators.They are conducting lot of workshops,challenges and Github Extership program provides attractive stipends and hands on experience.
+IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators. They are conducting lot of workshops, challenges and GitHub Externship program provides attractive stipends and hands on experience.
 
 ![inc](https://user-images.githubusercontent.com/71702982/119085250-ffe74b00-ba20-11eb-9db4-3c43b8e233d2.png)
 
@@ -128,12 +128,12 @@ Find out where all the awesome hackathons are running! There’s a whole bunch o
 
 ![1_Q6GvThiNFFZByD00DJANVg](https://user-images.githubusercontent.com/36594527/117923877-2d086f00-b338-11eb-96c6-c392797dab9c.jpg)
         
-## [Menitmeter](https://www.mentimeter.com/)
+## [Mentimeter](https://www.mentimeter.com/)
 Need a resource for doing great interactive presentations? As an organiser, this is an awesome platform. Use Mentimeter to run live polls, quizzes, word clouds, Q&As and more. Check out all the awesome things you can do to make your sessions more interactive.
 
 ## [Namecheap](https://www.namecheap.com/)
 
-If you're looking for a great domain hosting platform, you can't go past Namecheap. Choose from thousands of domain names to host your hackathon event apge. If you have the [GitHub Developer Pack](https://education.github.com/experiences/virtual_event_kit) you can register one free .me domain name for 12 months.
+If you're looking for a great domain hosting platform, you can't go past Namecheap. Choose from thousands of domain names to host your hackathon event page. If you have the [GitHub Developer Pack](https://education.github.com/experiences/virtual_event_kit) you can register one free .me domain name for 12 months.
 
 ## [Open Source Guide](https://opensource.guide/)
 
@@ -159,7 +159,7 @@ The communication tool of this century! If you don’t have it, you need it. All
 
 ## [Sparkle](https://sparklespaces.com/)
 
-There's definitely a lot more event plaforms around now. Sparkle is an interactive and immersive space for running your virtual events. There are interactive maps, social venues, customisable spaces, chat, video, and more. It's super colourful and great for hosting a hackathon. 
+There's definitely a lot more event platforms around now. Sparkle is an interactive and immersive space for running your virtual events. There are interactive maps, social venues, customisable spaces, chat, video, and more. It's super colourful and great for hosting a hackathon. 
 
 ## [Splash](https://splashthat.com/)
 
@@ -177,7 +177,7 @@ If you decide to host a virtual hackathon, and you are planning on having multip
 
 ## [Unsplash](https://unsplash.com)
 
-This the perfect place to find royalty free stock photos and images. They are great for promoting your hackathon, putting together event sites, and even using for slide shows.
+This is the perfect place to find royalty free stock photos and images. They are great for promoting your hackathon, putting together event sites, and even using for slide shows.
 
 ## [Vercel](https://vercel.com/virtual-event-starter-kit)
         
