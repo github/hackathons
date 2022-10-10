@@ -112,7 +112,7 @@ This is a super cool place where developers can earn verifiable digital badges f
 
 ## [IncubateIND](https://www.incubateind.com/)
 
-IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators. They are conducting lot of workshops, challenges and Github Externship program provides attractive stipends and hands on experience.
+IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators. They are conducting lot of workshops, challenges and GitHub Externship program provides attractive stipends and hands on experience.
 
 ![inc](https://user-images.githubusercontent.com/71702982/119085250-ffe74b00-ba20-11eb-9db4-3c43b8e233d2.png)
 
