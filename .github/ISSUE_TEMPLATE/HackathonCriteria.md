@@ -1,7 +1,7 @@
 ---
 name: 🤖 GitHub Hackathon Criteria ✔️|❌
 about: 'Do you have a question about the GitHub Hackathon Criteria?'
-title: "Question ❓ regarding eligibity criteria "
+title: "Question ❓ regarding eligibility criteria "
 labels: 
 assignees: MishManners
 
