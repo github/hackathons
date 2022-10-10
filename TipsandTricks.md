@@ -32,7 +32,7 @@ When creating a hackathon, you should think about what you can provide people as
 
 Your theme could be very specific (ie. how to use AI to solve traffic congestion in a city) or it could be something more open (ie. how to unlock a city’s potential and increase urban mobility?) The less specific themes are often better as it opens up to outside the box thinking. The more narrow the topic, the more similar ideas you’ll get. If you want lots of different ideas for various things, then open up the theme.
 
-You don’t need to have a theme. Depending on your goals, simply having a“build something, anything, in 24 hours, and present the solution for review.” can be a good way of encouraging networking and building teams. These hackathons often have a “it has to work” theme rather than a specific problem to solve. This leaves the hackathon completely open to the participants to define their own problems and suggest a solution for it.
+You don’t need to have a theme. Depending on your goals, simply having a “build something, anything, in 24 hours, and present the solution for review.” can be a good way of encouraging networking and building teams. These hackathons often have a “it has to work” theme rather than a specific problem to solve. This leaves the hackathon completely open to the participants to define their own problems and suggest a solution for it.
 
 <div>
 <img src="https://github.com/github/hackathons/blob/main/.github/images/Explore.png" width="400">
