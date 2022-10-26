@@ -94,11 +94,11 @@ The hackathon guide was put together as a guide for running IRL (in person) hack
 
 This guide was put together by our friends over at [Major League Hacking](https://mlh.io). They have a lot of useful information on how to run community focused hackathons. There are some resources around budgets, volunteering guides, proposals, sponsorship decks, and more. A lot of the information is not only targeted towards community hackathons, but also very much towards student hackathons. You can even view, edit, and contribute to [this guide on GitHub](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/README.md)!
         
-## [Hackathon Queen](https://hackathonqueen.com/)
+## [Hackathon Queen](https://hackathongoddess.wordpress.com/)
 
 From GitHub’s own Hackathon Queen. Mish puts up lots of insights into hackathons, innovation, outcomes, and more. Check out her website for some great inspiration when you’re thinking about running your hackathon.
         
-## [Hackathons International](https://hackathonsinternational.com)
+## [Hackathons International](https://www.hackathonsinternational.com/)
 
 Hackathons International is a global organisation, started in Melbourne. They have a whole host of hackathons on their website. This is a great resource if you’re looking to send your customers/clients to hackathons. There’s featured hacks from all over the globe. There’s also opportunities for you to have your hackathon featured on the website too. Their site also has a blog with lots of tips and tricks on running a hackathon too.
 
@@ -110,7 +110,7 @@ HackerEarth lets you engage or source top developers with hackathons, while also
 
 This is a super cool place where developers can earn verifiable digital badges for skills, achievements, and all the amazing things you do. If you are running a hackathon, think about offering a Holopin badge to participants and place winners. It's a great way to help developers build their resumes.
 
-## [IncubateIND](https://www.incubateind.com/)
+## [IncubateIND](https://incubateind.com/)
 
 IncubateIND is India's largest and fastest-growing community of technology innovators including startups and student innovators. They are conducting lot of workshops, challenges and GitHub Externship program provides attractive stipends and hands on experience.
 
