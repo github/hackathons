@@ -1,6 +1,6 @@
 # ![Resources Logo2](https://user-images.githubusercontent.com/36594527/117616341-55fcf880-b1ae-11eb-8917-ef4f75ac48ba.png)
 
-Need some resources for your hackathon? Check out all our resources below. This is by no means an exhaustive list. We hope you find it useful.
+Need some resources for your hackathon? Want some more tips and tricks? Check out all our resources below. This is by no means an exhaustive list. We hope you find it useful. Don't forget you can contribute to this repo via a pull request.
 
 Whether you’re running an in-person hackathon, online, or even hybrid, here’s some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon so promote it in as many places as possible! Check out the [Readme file](https://github.com/github/hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
 
@@ -100,7 +100,7 @@ From GitHub’s own Hackathon Queen. Mish puts up lots of insights into hackatho
         
 ## [Hackathons International](https://www.hackathonsinternational.com/)
 
-Hackathons International is a global organisation, started in Melbourne. They have a whole host of hackathons on their website. This is a great resource if you’re looking to send your customers/clients to hackathons. There’s featured hacks from all over the globe. There’s also opportunities for you to have your hackathon featured on the website too. Their site also has a blog with lots of tips and tricks on running a hackathon too.
+Hackathons International is a global organisation, started in Melbourne. They have a whole host of hackathons on their website, from all over the world. This is a great resource if you’re looking to send your customers/clients to hackathons. There are opportunities for you to have your hackathon featured on the website. Their site also has a blog with lots of tips and tricks on running a hackathon.
 
 ## [HackerEarth](https://www.hackerearth.com/)
 
