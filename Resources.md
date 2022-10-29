@@ -10,6 +10,10 @@ Don't forget to read our own [Tips and Tricks document](https://github.com/githu
 
 You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](https://github.com/github/hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
 
+## [Accredible](https://www.accredible.com/)
+
+Certifying the participants or giving them digital badges of hackathon is hard enough. Luckily, with Accredible, you are covered. Accredible makes it easy to create beautiful, interactive, digital badges and certificates. This gives you many more features than a traditional paper certificate could: correct misspelled names on your own, download and print a PDF copy, or attach rich evidence like reports or video to substantiate your learning.
+
 ## [Canva](https://www.canva.com/)
 
 Developing and executing a hackathon is hard enough without having to worry about branding, graphics, emails, and social media. Luckily, with Canva, you are covered. Get tonnes of graphics for your hackathon promo videos, presentations, social media, emails, and more. You can get started with [Canva's free tier](https://www.canva.com/pricing/), trial Pro for a free 30 days, or use your [GitHub Student Developer pack](https://education.github.com/experiences/virtual_event_kit) to get 12 months of Canva Pro Tier for free.
