@@ -172,20 +172,20 @@ Most hackathon goers would have heard of the terms coder, innovator, designer. T
 
 ### Who are these people and what’s their roles?
 
-**Coder:** your techies. Engineers and developers are your coders. They are the dev gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple coders in the group, just like a product or service will have multiple developers working on it together.
+**Coder:** your techies. Engineers and developers are your coders. They are the dev gurus and usually have good knowledge of many different tech stacks. A more technical focused hackathon might have multiple coders in the group, just like a product or service will have multiple developers working together.
 
-**Innovator:** your business and marketing people. They are the ones who go out and validate the ideas, understand the problem, research the market, and usually they’ll be the one presenting the final product.
+**Innovator:** your business and marketing people. They are the ones who validate ideas, understand the problem, research the market, and usually they’ll be the one presenting the final product.
 
 **Designer:** your creative type. Every project needs great design, from beautiful UI to UX. These people focus on the product itself and how it looks and feels to the customer.
 
 <div>
 <img src="https://github.com/github/hackathons/blob/main/.github/images/Designer%20Coder%20Innovator.png" width="400">
-  <p><sup>Any one person could have multiple skill sets that cover multiple roles above. For a hackathon however where there is a short timeframe required, it’s best to pick one role and focus your efforts there. It can also be more beneficial to the team as roles are clearly defined and the team will be able to deliver something faster.</p>
+  <p><sup>Any one person could have multiple skill sets that cover multiple roles above. For a hackathon however where there is usually a short timeframe required, it’s best to pick one role and focus your efforts there. It can also be more beneficial to the team. This is because roles are clearly defined and the team will be able to deliver something faster.</p>
 </div>
 
 ## How should we ‘judge’ the ideas presented?
 
-First thing to note, not every hackathon needs to have judging. For example, the GitHub Actions Hackathon is more a “challenge” where participants completed the steps outlined, and there were no “winners”—simply participating and delivering a solution that met the criteria was enough to qualify for a reward.
+First thing to note, not every hackathon needs to have judging. For example, the GitHub Actions Hackathon is more a “challenge” where participants completed the steps outlined. In this hackathons, there were no “winners”—simply participating and delivering a solution that met the criteria was enough to qualify for a reward.
 
 But a little light hearted competition can go a long way to motivate people. When it comes to coding, here’s some of the areas to think about judging.
 
@@ -200,7 +200,7 @@ But a little light hearted competition can go a long way to motivate people. Whe
 
 **Solution usability:** is the end result easily used? It is utilising current tech stacks and practices? 
 
-**Documentation:** how well has the team documented their solution? Is it easy to understand? Is there a “read me” file to get people started?
+**Documentation:** how well has the team documented their solution? Is it easy to understand? Is there a README file to get people started?
 
 **Security:** is the code secure? Has the team thought about vulnerabilities and/or denial of service issues? 
 
@@ -208,7 +208,7 @@ But a little light hearted competition can go a long way to motivate people. Whe
 
 So all the fun is over, now what? There’s a number of options for what to do after a hackathon.
 
-What you choose will depend on the reason for running the hackathon, what resources you have available, and what you’re able to do. Here’s some idea of what you can do at the end of the hackathon:
+What you choose will depend on the reason for running the hackathon, what resources you have available, and what you’re able to do. Here’s some ideas of what you can do at the end of the hackathon:
 
 ### Present it
 
@@ -226,15 +226,15 @@ Encourage participants to add their hackathon creations to their own LinkedIn an
 
 ### Incubate ideas
 
-Some people in the hackathon might like to continue to build some of the ideas. If you have people who can help your participants take their ideas to the next level, do it!
+Some people in the hackathon might like to continue to build on their ideas. If you have people who can help your participants take their ideas to the next level, do it!
 
 ### Implement concepts
 
-Encourage your participants who attended the hackathon to understand the concepts learned during the hackathon and get them to apply them to everyday work life. Innovation, creativity, problem solving, critical thinking, teamwork, communication, and customer-centric thinking, should all become part of the way you work.
+Encourage your participants who attended the hackathon to understand the concepts learned during the hackathon, Have them apply these concepts to everyday work life. Innovation, creativity, problem solving, critical thinking, teamwork, communication, and customer-centric thinking, should all become part of the way you work.
 
 ### Do another hackathon!
 
-Liked the hackathon? Then run another one! Some hackathons run annual, half-yearly, and even mini-monthly hackathons.
+Liked the hackathon? Then run another one! Some companies and teams run annual, half-yearly, and even mini-monthly hackathons.
 
 <div>
 <img src="https://github.com/github/hackathons/blob/main/.github/images/After.png" width="400">
@@ -243,15 +243,15 @@ Liked the hackathon? Then run another one! Some hackathons run annual, half-year
 
 ## Tips and Tricks
 
-We hope these Tips and Tricks were useful. If you'd like to continue using this resource, feel free. You can also [download this document as a PDF](https://github.com/github/hackathons/files/6497549/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
+We hope these Tips and Tricks were useful. You can also [download this document as a PDF](https://github.com/github/hackathons/files/6497549/GitHub.Hackathon.Tips.and.Tricks.2020.pdf). Feel free to use it, share it around, and consult it.
 
-Don't forget to also check out the [Resources documentation](https://github.com/github/hackathons/blob/main/Resources.md) for more tips and tricks, plus great tools that can help you as an organiser.
+Don't forget to check out the [Resources documentation](https://github.com/github/hackathons/blob/main/Resources.md) for more tips and tricks, plus great tools that can help you as an organizer.
 
 ### Contribution Guidelines
 
 If you have new ideas you'd like to add to the Tips and Tricks document, please [head to the Discussions](https://github.com/github/hackathons/discussions/categories/tips-and-tricks) and start a conversation. If your tip or trick gets a lot of attention, we'll consider adding it to the documentation!
 
-When talking about tips and tricks, ensure that your additions/changes includes information that is useful for hackathon organisers. If your addition or change does not include enough information or is not geared towards hackathon organisers, then your change will probably not be included. Remember, this repository is for hackathon organisers, not participants.
+When talking about tips and tricks, ensure your additions/changes includes information that is useful for hackathon organizers. If your addition or change does not include enough information, or is not geared towards hackathon organizers, then your change will probably not be included. Remember, this repository is for hackathon organizers, not participants.
 
 _____
 
