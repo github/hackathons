@@ -149,6 +149,10 @@ This platform for hosting virtual events is like playing a first person shooter.
 
 ![Party4](https://user-images.githubusercontent.com/36594527/118588437-bb21a100-b7e1-11eb-82e8-184bd50de5bb.gif)
 
+## [Picsart](https://www.picsart.com/)
+
+Worried about creating a banner or social media image for advertising your hackathon? Fortunately, Picsart has got you covered. It allows users to take and edit pictures and videos, draw with layers, and share the images on Picsart and other social networks.
+
 ## [Remo](https://remo.co)
 
 Another one for the virtual event orgainsers. Remo is a fully online and customisable virtual event experience. This really makes participants feel like they are at a physical hackathon. It has all the features of a real building; elevators, different floors, tables to 'sit' at, and places to watch larger presentations. It's perfect if you want to run with the 'weekend long' format in a virtual setting.
