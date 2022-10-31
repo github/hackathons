@@ -151,7 +151,7 @@ This platform for hosting virtual events is like playing a first person shooter.
 
 ## [Picsart](https://www.picsart.com/)
 
-Worried about creating a banner or social media image for advertising your hackathon? Fortunately, Picsart has got you covered. It allows users to take and edit pictures and videos, draw with layers, and share the images on Picsart and other social networks.
+Worried about creating a banner or social media image for advertising your hackathon? Fortunately, Picsart has you covered. It allows users to take and edit pictures and videos, draw with layers, and share the images on Picsart and other social networks.
 
 ## [Remo](https://remo.co)
 
