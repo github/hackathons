@@ -127,7 +127,8 @@ Event management, marketing automation, and tonnes of analytics is what Localist
 ![Localist2](https://user-images.githubusercontent.com/36594527/118575019-e6e45d00-b7c8-11eb-977b-4cde33c87700.gif)
 ## [Luma](https://lu.ma/)  
 
-Worried about how the users will register for your online hackathon event and get notified. We've got you covered with Luma! Luma allows you to host delightful events and foster meaningful relationships with events, newsletters, and community analytics.     
+Worried about how the users will register for your online hackathon event and get notified? We've got you covered. Luma allows you to host delightful events and foster meaningful relationships with events, newsletters, and community analytics.
+
 ## [Major League Hacking](https://mlh.io/)
 
 Find out where all the awesome hackathons are running! There’s a whole bunch of resources, tips, freebies, and more on their website. It’s a must to check out if you’re running a hackathon.
