@@ -22,6 +22,10 @@ Developing and executing a hackathon is hard enough without having to worry abou
 
 Nearly every event nowadays requires a Code of Conduct. If you are looking for a good basis to build your Code of Conduct, check out the [GitHub Event Code of Conduct](https://docs.github.com/en/github/site-policy/github-event-code-of-conduct) there's also the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), another great place to start, as well as the [open source Code of Conduct](https://opensource.guide/code-of-conduct/).
 
+## [Community in a box](https://github.com/orgs/community/discussions/86520)
+
+This resource shows you how to get started with using GitHub Discussions for your community. You might like to use GitHub Discussions for your hackathons; building a community, sharing knowledge, showcasing projects, and more. Community in a box will give you everything you need to enable Discussions for your organisation and how to get started.
+
 ## [DEV](https://dev.to/)
 
 DEV is a community of software developers. They help one another out, posting tutorials, information, and collaborating. DEV host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon.
