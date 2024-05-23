@@ -51,6 +51,8 @@ Lots of communities run on Discord these days. If you are running a hackathon fo
 ## [Dribdat](https://dribdat.cc)
 
 Dribdat is an open source (MIT licensed) web application that assists teams working playfully on projects with data. Designed to support awesome hackathons, we think of it as a Swiss Army Knife for civic tech. Time-track your events, embed guidelines, put up digital signage, run a project log, progress tracker, integrate prototyping tools, GitHub repositories, open data APIs, and more.
+
+![Dribdat](https://github.com/loleg/hackathons/assets/31819/68abae63-d953-4126-adaf-7c309d74e81e)
         
 ## [Envato](https://envato.com/)
 
