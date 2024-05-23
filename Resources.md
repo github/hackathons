@@ -2,13 +2,13 @@
 
 Need some resources for your hackathon? Want some more tips and tricks? Check out all our resources below. This is by no means an exhaustive list. We hope you find it useful. Don't forget you can contribute to this repo via a pull request.
 
-Whether you’re running an in-person hackathon, online, or even hybrid, here’s some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon so promote it in as many places as possible! Check out the [Readme file](https://github.com/github/hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
+Whether you’re running an in-person hackathon, online, or even hybrid, here are some useful tools and resources to help ensure your hackathon is a success. Remember, there are a number of places to promote your hackathon, so promote it in as many places as possible! Check out the [Readme file](https://github.com/github/hackathons/blob/main/README.md) in this repo for some great websites where you can promote your hackathon.
 
 Don't forget to read our own [Tips and Tricks document](https://github.com/github/hackathons/blob/main/TipsandTricks.md) for lots of information on running your hackathon.
          
 # Resources
 
-You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document you can. Simply [open a pull request](https://github.com/github/hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
+You'll find an alphabetical list of resources below. If you'd like to add your own resource to this document, you can. Simply [open a pull request](https://github.com/github/hackathons/pulls). Make sure you follow the contribution guidelines detailed below.
 
 ## [Accredible](https://www.accredible.com/)
 
@@ -16,7 +16,7 @@ Certifying the participants or giving them digital badges of hackathon is hard e
 
 ## [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon/blob/main/README.md)
 
-The [Awesome](https://awesome.re/) project curates resources across the open source community, with thousands of lists that you and your participants will find useful to bootstrap their projects. [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon/blob/main/README.md), is aimed at the organizers and participants of such events, keeping track of open platforms, tools, guidelines (like this one!) that can boost your event. And you are welcome to contribute your own links and guides to support the community effort.
+The [Awesome](https://awesome.re/) project curates resources across the open source community, with thousands of lists that you and your participants will find useful to bootstrap their projects. [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon/blob/main/README.md) is aimed at the organizers and participants of such events, keeping track of open platforms, tools, guidelines (like this one!) that can boost your event. And you are welcome to contribute your own links and guides to support this community effort.
 
 ## [Canva](https://www.canva.com/)
 
@@ -50,7 +50,7 @@ Lots of communities run on Discord these days. If you are running a hackathon fo
 
 ## [Dribdat](https://dribdat.cc)
 
-Dribdat is an open source (MIT licensed) web application that assists teams working playfully on projects with data. Designed to support awesome hackathons and promote open data, it is a Swiss Army Knife for civic tech: time-track your events, embed guidelines, put up digital signage, run a project log, progress tracker, integrate prototyping tools, GitHub repositories, open data APIs, and more.
+Dribdat is an open source (MIT licensed) web application that assists teams working playfully on projects with data. Designed to support awesome hackathons, we think of it as a Swiss Army Knife for civic tech. Time-track your events, embed guidelines, put up digital signage, run a project log, progress tracker, integrate prototyping tools, GitHub repositories, open data APIs, and more.
         
 ## [Envato](https://envato.com/)
 
