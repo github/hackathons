@@ -32,7 +32,7 @@ This resource shows you how to get started with using GitHub Discussions for you
 
 ## [DEV](https://dev.to/)
 
-DEV is a community of software developers. They help one another out, posting tutorials, information, and collaborating. DEV host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon.
+DEV is a community of software developers. They help one another out, posting tutorials, information, and collaborating. DEV host an array of hackathons and is a great place to get lots of information on running a hackathon, or a great site to consider hosting your hackathon. The team hold plenty of collaboration hackathons, so if you're a company looking to run a developer focused or writing focused hackathon, then speak to the team at DEV. They'll do all the heavy lifting for you, and in return you'll have your participants creating a lot more content.
 
 ![6hqmcjaxbgbon8ydw93z](https://user-images.githubusercontent.com/36594527/117923859-2679f780-b338-11eb-83a9-aebd1f4f9bf1.png)
         
